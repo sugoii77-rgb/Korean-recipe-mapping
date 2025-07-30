@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "제주",
+    "en": "Jeju"
+  },
+  "foods": [
+    {
+      "id": "heukdwaeji-gui",
+      "name": {
+        "ko": "흑돼지구이",
+        "en": "Heukdwaeji Gui"
+      },
+      "description": {
+        "ko": "제주도 특산 흑돼지를 구워낸 제주의 대표 음식",
+        "en": "Jeju's representative dish of grilled black pork, a specialty of Jeju Island"
+      },
+      "origin": {
+        "ko": "제주도 재래흑돼지는 몽골에서 유입된 것으로 추정되며, 제주의 독특한 자연환경에 적응하며 오랜 시간에 걸쳐 제주만의 품종으로 발달했습니다. 조선시대부터 제주도민들의 중요한 단백질 공급원이었습니다.",
+        "en": "Jeju's native black pigs are believed to have been introduced from Mongolia, adapting to Jeju's unique natural environment and developing into Jeju's own breed over a long time. They have been an important protein source for Jeju islanders since the Joseon Dynasty."
+      },
+      "history": {
+        "ko": "전통적으로 제주 가정에서 특별한 날에만 먹던 귀한 음식이었으나, 1970년대 관광업 발달과 함께 제주를 대표하는 관광 상품으로 발전했습니다. 1990년대부터 본격적으로 상품화되어 현재는 제주 관광의 필수 코스가 되었습니다.",
+        "en": "Traditionally, it was a precious food eaten only on special days in Jeju households, but with the development of tourism in the 1970s, it developed into a representative tourist product of Jeju. It was commercialized in earnest from the 1990s and has now become an essential course of Jeju tourism."
+      },
+      "geography": {
+        "ko": "제주도의 청정한 자연환경과 해풍, 그리고 한라산의 맑은 물이 흑돼지의 독특한 맛을 만들어냅니다. 제주의 화산섬 특성상 미네랄이 풍부한 토양과 자연 방목 환경이 흑돼지의 품질을 좌우합니다.",
+        "en": "Jeju Island's clean natural environment, sea breeze, and clear water from Hallasan create the unique taste of black pork. Due to Jeju's volcanic island characteristics, mineral-rich soil and natural grazing environment determine the quality of black pork."
+      }
+    },
+    {
+      "id": "jeonbok-juk",
+      "name": {
+        "ko": "전복죽",
+        "en": "Jeonbok Juk"
+      },
+      "description": {
+        "ko": "제주 바다에서 나는 싱싱한 전복으로 끓인 영양 만점 죽",
+        "en": "Nutritious porridge cooked with fresh abalone from Jeju sea"
+      },
+      "origin": {
+        "ko": "제주 해녀들이 바다에서 직접 잡은 전복을 이용해 만든 음식으로, 해녀들의 기력 회복을 위한 보양식에서 시작되었습니다. 제주의 독특한 해녀 문화와 밀접한 관련이 있습니다.",
+        "en": "A food made with abalone caught directly by Jeju female divers (haenyeo) from the sea, it started as a nutritious food for the divers' energy recovery. It is closely related to Jeju's unique haenyeo culture."
+      },
+      "history": {
+        "ko": "수백 년 동안 제주 해녀들의 전통 음식이었으나, 1980년대부터 제주의 고급 향토음식으로 알려지기 시작했습니다. 현재는 제주도를 대표하는 건강식품으로 인정받고 있습니다.",
+        "en": "It was a traditional food of Jeju haenyeo for hundreds of years, but began to be known as Jeju's premium local food from the 1980s. It is now recognized as a representative health food of Jeju Island."
+      },
+      "geography": {
+        "ko": "제주 연안의 청정한 바다와 용암이 만든 독특한 해저지형이 최상급 전복 서식지를 제공합니다. 제주의 해류와 수온이 전복의 성장에 최적의 조건을 만들어 전복죽의 깊은 맛을 가능하게 합니다.",
+        "en": "Jeju's clean coastal waters and unique underwater terrain formed by lava provide the finest abalone habitat. Jeju's ocean currents and water temperature create optimal conditions for abalone growth, enabling the deep flavor of jeonbok juk."
+      }
+    },
+    {
+      "id": "omegi-tteok",
+      "name": {
+        "ko": "오메기떡",
+        "en": "Omegi Tteok"
+      },
+      "description": {
+        "ko": "제주 특산 조를 이용해 만든 노란색의 전통 떡",
+        "en": "Yellow traditional rice cake made with Jeju specialty millet"
+      },
+      "origin": {
+        "ko": "제주도의 척박한 땅에서도 잘 자라는 조(좁쌀)를 이용해 만든 제주만의 독특한 떡입니다. 쌀이 귀했던 시절 제주도민들이 쌀 대신 조를 이용해 만든 생활음식에서 유래되었습니다.",
+        "en": "A unique rice cake from Jeju made with millet that grows well even in Jeju's barren land. It originated from daily food made by Jeju islanders using millet instead of rice when rice was precious."
+      },
+      "history": {
+        "ko": "제주도의 궁핍했던 과거를 보여주는 음식이지만, 독특한 색깔과 고소한 맛으로 현재는 제주의 대표적인 전통 디저트가 되었습니다. 1990년대부터 관광 상품으로 개발되어 제주 특산품으로 자리잡았습니다.",
+        "en": "Although it is a food that shows Jeju's impoverished past, with its unique color and savory taste, it has now become Jeju's representative traditional dessert. It was developed as a tourist product from the 1990s and established itself as a Jeju specialty."
+      },
+      "geography": {
+        "ko": "제주도의 화산토양과 해풍은 조 재배에 적합한 환경을 제공했습니다. 척박하지만 미네랄이 풍부한 제주의 토양이 조의 독특한 맛과 영양을 만들어내며, 이것이 오메기떡의 특별한 맛의 비결입니다.",
+        "en": "Jeju Island's volcanic soil and sea breeze provided an environment suitable for millet cultivation. Jeju's barren but mineral-rich soil creates the unique taste and nutrition of millet, which is the secret to omegi tteok's special flavor."
+      }
+    }
+  ]
+}
