@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "후포",
+    "en": "Hupo"
+  },
+  "foods": [
+    {
+      "id": "hupo-daege",
+      "name": {
+        "ko": "후포대게",
+        "en": "Hupo Snow Crab"
+      },
+      "description": {
+        "ko": "후포 앞바다 깊은 곳에서 잡히는 최고급 대게, 동해안 대게의 대명사",
+        "en": "Premium snow crab caught in deep waters off Hupo, synonymous with East Coast snow crab"
+      },
+      "origin": {
+        "ko": "후포는 조선시대부터 대게잡이로 유명한 어촌이었습니다. 동해의 차가운 심해에서 자라는 후포대게는 다른 지역 대게와 비교해 살이 꽉 차고 단맛이 뛰어나 조선 후기부터 임금님 수라상에 올랐다는 기록이 있습니다.",
+        "en": "Hupo has been a fishing village famous for snow crab fishing since the Joseon Dynasty. Hupo snow crabs, which grow in the cold deep waters of the East Sea, have fuller meat and superior sweetness compared to crabs from other regions, with records showing they were served on the king's royal table since the late Joseon period."
+      },
+      "history": {
+        "ko": "일제강점기에도 후포대게의 명성은 이어졌고, 1960년대부터 본격적인 상품화가 시작되었습니다. 1980년대 들어 전국적으로 알려지면서 후포는 대한민국 최고의 대게 산지로 인정받게 되었습니다. 현재는 후포항 대게축제와 함께 지역 관광의 핵심이 되고 있습니다.",
+        "en": "The reputation of Hupo snow crab continued even during the Japanese colonial period, and full-scale commercialization began in the 1960s. As it became known nationwide in the 1980s, Hupo came to be recognized as Korea's best snow crab production area. It is now the core of regional tourism along with the Hupo Port Snow Crab Festival."
+      },
+      "geography": {
+        "ko": "후포 앞바다는 동해의 깊고 차가운 해류가 만나는 지점으로, 수심 200-400m의 심해에서 자라는 대게의 서식지입니다. 한류와 난류가 만나는 특별한 해역의 풍부한 플랑크톤과 차가운 수온이 후포대게만의 독특한 맛과 품질을 만들어냅니다.",
+        "en": "The sea off Hupo is where the deep, cold currents of the East Sea meet, serving as a habitat for snow crabs that grow in deep waters of 200-400m depth. The abundant plankton and cold water temperatures of this special sea area where cold and warm currents meet create the unique taste and quality of Hupo snow crab."
+      }
+    },
+    {
+      "id": "hupo-hoetjip",
+      "name": {
+        "ko": "후포물회",
+        "en": "Hupo Mulhoe"
+      },
+      "description": {
+        "ko": "후포항에서 갓 잡은 신선한 생선으로 만든 시원하고 새콤달콤한 물회",
+        "en": "Refreshing and sweet-sour mulhoe made with fresh fish just caught at Hupo Port"
+      },
+      "origin": {
+        "ko": "후포 어민들이 고된 어업 작업 후 바로 배 위에서 갓 잡은 생선으로 만들어 먹던 음식에서 시작되었습니다. 동해안 특유의 맑고 차가운 바닷물에서 자란 싱싱한 생선과 후포 지역만의 독특한 양념법이 만나 탄생한 향토음식입니다.",
+        "en": "It started from food that Hupo fishermen made and ate with freshly caught fish right on their boats after hard fishing work. A local food born from the meeting of fresh fish grown in the clear, cold seawater characteristic of the East Coast and unique seasoning methods specific to the Hupo region."
+      },
+      "history": {
+        "ko": "1970년대부터 후포항 주변 횟집들에서 물회를 내놓기 시작했고, 1990년대 들어 동해안 물회의 대표 메뉴로 자리잡았습니다. 현재는 후포를 찾는 관광객들의 필수 메뉴로, 대게와 함께 후포의 양대 특산 음식이 되었습니다.",
+        "en": "Raw fish restaurants around Hupo Port began serving mulhoe from the 1970s, and in the 1990s, it established itself as a representative menu of East Coast mulhoe. It is now an essential menu for tourists visiting Hupo and has become one of Hupo's two major specialty foods along with snow crab."
+      },
+      "geography": {
+        "ko": "동해의 차가운 해류와 깊은 수심이 만들어내는 청정 해역에서 자라는 다양한 생선들이 물회의 신선함을 보장합니다. 후포 연안의 암초 지대는 다양한 어종의 서식지가 되어 물회 재료의 다양성을 제공합니다.",
+        "en": "Various fish growing in clean waters created by the East Sea's cold currents and deep depths guarantee the freshness of mulhoe. The reef areas along Hupo's coast serve as habitats for various fish species, providing diversity in mulhoe ingredients."
+      }
+    },
+    {
+      "id": "hupo-mareun-ojingeo",
+      "name": {
+        "ko": "후포마른오징어",
+        "en": "Hupo Dried Squid"
+      },
+      "description": {
+        "ko": "후포 앞바다에서 잡은 오징어를 동해안 특유의 바닷바람으로 건조시킨 특산품",
+        "en": "Specialty product of squid caught in the sea off Hupo and dried with the sea breeze characteristic of the East Coast"
+      },
+      "origin": {
+        "ko": "후포 지역은 조선시대부터 오징어 어업이 발달한 곳으로, 잡은 오징어를 오래 보관하기 위해 자연 건조시키는 방법이 발달했습니다. 후포의 독특한 지형과 해풍이 만들어내는 자연 건조 환경이 마른오징어의 품질을 좌우합니다.",
+        "en": "The Hupo region has been a place where squid fishing developed since the Joseon Dynasty, and natural drying methods developed to preserve caught squid for a long time. The natural drying environment created by Hupo's unique topography and sea breeze determines the quality of dried squid."
+      },
+      "history": {
+        "ko": "일제강점기에도 후포마른오징어는 전국으로 유통되었고, 1960년대부터 본격적인 가공업이 시작되었습니다. 1980년대 들어 전국 최고 품질의 마른오징어 산지로 인정받으며 후포의 대표 특산품이 되었습니다.",
+        "en": "Hupo dried squid was distributed nationwide even during the Japanese colonial period, and full-scale processing industry began in the 1960s. In the 1980s, it was recognized as the nation's highest quality dried squid production area and became Hupo's representative specialty."
+      },
+      "geography": {
+        "ko": "후포의 산과 바다가 만나는 독특한 지형이 마른오징어 제조에 최적의 조건을 만듭니다. 동해안의 청정한 바닷바람과 적당한 습도, 그리고 일교차가 큰 기후가 오징어를 천천히 건조시켜 쫄깃하면서도 부드러운 식감을 만들어냅니다.",
+        "en": "Hupo's unique topography where mountains meet the sea creates optimal conditions for dried squid production. The clean sea breeze of the East Coast, appropriate humidity, and climate with large daily temperature differences slowly dry the squid, creating a chewy yet tender texture."
+      }
+    }
+  ]
+}
