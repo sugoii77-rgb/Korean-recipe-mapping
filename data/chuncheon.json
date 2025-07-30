@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "춘천",
+    "en": "Chuncheon"
+  },
+  "foods": [
+    {
+      "id": "chuncheon-dakgalbi",
+      "name": {
+        "ko": "춘천닭갈비",
+        "en": "Chuncheon Dakgalbi"
+      },
+      "description": {
+        "ko": "춘천의 대표 음식인 매콤달콤한 양념의 닭갈비 볶음",
+        "en": "Chuncheon's representative dish of stir-fried chicken galbi with sweet and spicy seasoning"
+      },
+      "origin": {
+        "ko": "1960년대 춘천 명동 일대에서 시작된 음식으로, 당시 비싼 돼지고기나 소고기 대신 저렴한 닭고기를 이용해 만든 서민적인 요리에서 유래되었습니다.",
+        "en": "A food that started in the Myeong-dong area of Chuncheon in the 1960s, it originated from a common people's dish made with inexpensive chicken instead of expensive pork or beef at the time."
+      },
+      "history": {
+        "ko": "1970년대부터 춘천 명동 닭갈비골목이 형성되면서 유명해지기 시작했고, 1980년대 들어 전국적으로 확산되었습니다. 현재는 한국을 대표하는 치킨 요리 중 하나가 되어 K-푸드의 대표 메뉴로 자리잡았습니다.",
+        "en": "It began to become famous as Chuncheon Myeong-dong dakgalbi alley was formed from the 1970s, and spread nationwide in the 1980s. It has now become one of Korea's representative chicken dishes and established itself as a representative K-food menu."
+      },
+      "geography": {
+        "ko": "춘천 분지의 온화한 기후와 소양강 유역의 깨끗한 물이 양질의 닭 사육을 가능하게 했습니다. 강원도 산간지역의 특산인 고추와 마늘이 닭갈비의 매콤한 맛을 만드는 핵심 재료입니다.",
+        "en": "The mild climate of Chuncheon Basin and clean water from the Soyang River basin enabled quality chicken raising. Red pepper and garlic, specialties of Gangwon Province's mountainous region, are key ingredients creating dakgalbi's spicy flavor."
+      }
+    },
+    {
+      "id": "chuncheon-makguksu",
+      "name": {
+        "ko": "춘천막국수",
+        "en": "Chuncheon Makguksu"
+      },
+      "description": {
+        "ko": "강원도 메밀로 만든 시원하고 쫄깃한 춘천의 대표 면요리",
+        "en": "Chuncheon's representative noodle dish, refreshing and chewy, made with Gangwon Province buckwheat"
+      },
+      "origin": {
+        "ko": "강원도 산간지역에서 재배되는 우수한 메밀을 이용해 만든 향토음식입니다. 춘천 지역 농가에서 메밀을 직접 갈아 만들어 먹던 전통 음식에서 시작되었습니다.",
+        "en": "A local food made with excellent buckwheat grown in Gangwon Province's mountainous region. It started from traditional food made by grinding buckwheat directly in Chuncheon region farms."
+      },
+      "history": {
+        "ko": "1970년대부터 춘천 시내 식당들에서 본격적으로 상품화되기 시작했고, 닭갈비와 함께 춘천을 대표하는 음식으로 발전했습니다. 현재는 춘천 관광의 필수 메뉴가 되었습니다.",
+        "en": "It began to be commercialized in earnest at restaurants in Chuncheon from the 1970s, and developed into a representative food of Chuncheon along with dakgalbi. It has now become an essential menu of Chuncheon tourism."
+      },
+      "geography": {
+        "ko": "춘천 주변의 고랭지에서 재배되는 메밀과 소양강의 맑은 물이 막국수의 쫄깃하고 깔끔한 맛을 만들어냅니다. 강원도의 서늘한 기후는 메밀 재배에 최적의 조건을 제공합니다.",
+        "en": "Buckwheat grown in highlands around Chuncheon and clear water from Soyang River create makguksu's chewy and clean taste. Gangwon Province's cool climate provides optimal conditions for buckwheat cultivation."
+      }
+    },
+    {
+      "id": "soyang-gang-mineogui",
+      "name": {
+        "ko": "소양강민어구이",
+        "en": "Soyang River Mineo Gui"
+      },
+      "description": {
+        "ko": "소양강에서 잡히는 신선한 민어를 구워낸 춘천의 특별한 생선요리",
+        "en": "Chuncheon's special fish dish of grilled fresh croaker caught in Soyang River"
+      },
+      "origin": {
+        "ko": "소양강댐 건설 이전부터 소양강 일대에서 잡히는 민어를 이용해 만든 춘천 지역의 전통 어요리입니다. 강원도 내륙지역에서 즐길 수 있는 특별한 민물고기 요리로 발달했습니다.",
+        "en": "A traditional fish dish from the Chuncheon region made with croaker caught around Soyang River since before the construction of Soyang River Dam. It developed as a special freshwater fish dish that can be enjoyed in Gangwon Province's inland region."
+      },
+      "history": {
+        "ko": "1973년 소양강댐 완공 이후 소양호 일대에서 잡히는 민어의 품질이 더욱 향상되면서 춘천의 대표적인 향토음식으로 자리잡았습니다. 현재는 춘천 호반의 특별한 별미로 인기를 얻고 있습니다.",
+        "en": "After the completion of Soyang River Dam in 1973, the quality of croaker caught around Lake Soyang improved further, establishing it as Chuncheon's representative local food. It is now gaining popularity as a special delicacy of Chuncheon lakeside."
+      },
+      "geography": {
+        "ko": "소양호의 깨끗한 물과 춘천 분지의 온화한 기후가 민어의 성장에 최적의 환경을 제공합니다. 호수의 적당한 수온과 풍부한 플랑크톤이 민어의 부드러운 살질과 담백한 맛을 만들어냅니다.",
+        "en": "Clean water of Lake Soyang and mild climate of Chuncheon Basin provide optimal environment for croaker growth. Appropriate water temperature and abundant plankton in the lake create croaker's tender flesh and light taste."
+      }
+    }
+  ]
+}
