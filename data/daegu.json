@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "대구",
+    "en": "Daegu"
+  },
+  "foods": [
+    {
+      "id": "daegu-maeuntang",
+      "name": {
+        "ko": "대구매운탕",
+        "en": "Daegu Maeuntang"
+      },
+      "description": {
+        "ko": "시원하고 칼칼한 대구탕으로 대구시의 이름과 같은 생선으로 만든 대표 음식",
+        "en": "Refreshing and spicy cod soup, representative dish made with the fish that shares the same name as Daegu city"
+      },
+      "origin": {
+        "ko": "대구시의 이름이 대구(大邱)가 아닌 대구(大口) 즉 큰 입을 가진 생선 대구에서 유래했다는 설과 연관이 있습니다. 조선시대부터 낙동강에서 잡히는 민물 대구를 이용해 끓인 탕에서 시작되었습니다.",
+        "en": "It is related to the theory that the name of Daegu city originated from the fish cod (daegu) with a big mouth, not from Daegu (large hill). It started from soup cooked with freshwater cod caught in the Nakdong River since the Joseon Dynasty."
+      },
+      "history": {
+        "ko": "일제강점기와 한국전쟁을 거치며 서민들의 중요한 단백질 공급원 역할을 했습니다. 1960년대부터 대구 동인동 찜갈비골목과 함께 대구의 대표 음식으로 자리잡았고, 현재는 전국적으로 사랑받는 탕 요리가 되었습니다.",
+        "en": "Through the Japanese colonial period and Korean War, it served as an important protein source for common people. From the 1960s, it established itself as Daegu's representative food along with Dongin-dong braised galbi alley, and has now become a nationally beloved soup dish."
+      },
+      "geography": {
+        "ko": "낙동강과 그 지류에서 잡히는 신선한 민물고기와 대구 분지의 온화한 기후가 매운탕 문화를 발달시켰습니다. 내륙 분지의 특성상 겨울이 춥고 건조해 뜨겁고 얼큰한 국물 요리에 대한 선호가 높았습니다.",
+        "en": "Fresh freshwater fish caught in the Nakdong River and its tributaries, and the mild climate of the Daegu Basin developed the maeuntang culture. Due to the inland basin characteristics, winters are cold and dry, leading to a high preference for hot and spicy soup dishes."
+      }
+    },
+    {
+      "id": "dongin-dong-jjimgalbi",
+      "name": {
+        "ko": "동인동찜갈비",
+        "en": "Dongin-dong Jjimgalbi"
+      },
+      "description": {
+        "ko": "대구 동인동에서 유래한 달콤하고 매콤한 양념으로 찜한 갈비",
+        "en": "Ribs steamed with sweet and spicy seasoning originating from Dongin-dong, Daegu"
+      },
+      "origin": {
+        "ko": "1960년대 대구 동인동 일대에서 시작된 것으로, 당시 경제적으로 어려웠던 서민들이 저렴한 갈비 부위를 맛있게 먹기 위해 개발한 조리법에서 유래되었습니다.",
+        "en": "It started in the Dongin-dong area of Daegu in the 1960s, originating from cooking methods developed by economically struggling common people to deliciously eat inexpensive rib cuts."
+      },
+      "history": {
+        "ko": "1970년대부터 동인동 찜갈비골목이 형성되면서 대구의 대표 음식으로 자리잡았습니다. 1980년대 이후 전국적으로 확산되어 현재는 한국의 대표적인 갈비 요리 중 하나가 되었습니다.",
+        "en": "From the 1970s, as Dongin-dong jjimgalbi alley was formed, it established itself as Daegu's representative food. It spread nationwide after the 1980s and has now become one of Korea's representative galbi dishes."
+      },
+      "geography": {
+        "ko": "대구 분지의 온화한 기후와 주변 농업지역에서 생산되는 양질의 채소들이 찜갈비의 풍부한 맛을 만들어냅니다. 내륙지역의 특성상 육류 보관과 양념 숙성에 유리한 환경이었습니다.",
+        "en": "The mild climate of the Daegu Basin and high-quality vegetables produced in surrounding agricultural areas create the rich flavor of jjimgalbi. The inland characteristics provided an environment favorable for meat storage and seasoning maturation."
+      }
+    },
+    {
+      "id": "daegu-yukgaejang",
+      "name": {
+        "ko": "대구육개장",
+        "en": "Daegu Yukgaejang"
+      },
+      "description": {
+        "ko": "소고기와 고사리, 콩나물을 넣고 얼큰하게 끓인 대구식 육개장",
+        "en": "Daegu-style yukgaejang with beef, bracken, and bean sprouts in spicy broth"
+      },
+      "origin": {
+        "ko": "조선시대 대구 지역 양반가에서 몸보신용으로 끓여 먹던 탕에서 유래되었습니다. 대구 지역의 풍부한 산나물과 지역 특산 고춧가루가 만나 독특한 맛을 만들어냈습니다.",
+        "en": "It originated from soup cooked for health in aristocratic families of Daegu during the Joseon Dynasty. Abundant mountain vegetables from the Daegu region met local specialty red pepper powder to create a unique taste."
+      },
+      "history": {
+        "ko": "일제강점기에도 그 전통이 이어졌고, 한국전쟁 이후 서민 음식으로 대중화되었습니다. 1970년대부터 대구의 대표적인 해장국으로 자리잡아 현재까지 사랑받고 있습니다.",
+        "en": "The tradition continued even during the Japanese colonial period and was popularized as common people's food after the Korean War. From the 1970s, it established itself as Daegu's representative hangover soup and has been loved to this day."
+      },
+      "geography": {
+        "ko": "대구 주변 산지에서 나는 고사리와 도라지, 그리고 대구 평야의 콩나물이 육개장의 핵심 재료입니다. 대구의 더운 여름 기후는 매운 음식에 대한 선호를 높이며 육개장 문화 발달에 기여했습니다.",
+        "en": "Bracken and bellflower from mountains around Daegu, and bean sprouts from Daegu Plain are key ingredients of yukgaejang. Daegu's hot summer climate increased preference for spicy food and contributed to the development of yukgaejang culture."
+      }
+    }
+  ]
+}
