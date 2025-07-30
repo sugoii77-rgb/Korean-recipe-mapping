@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "부산",
+    "en": "Busan"
+  },
+  "foods": [
+    {
+      "id": "milmyeon",
+      "name": {
+        "ko": "밀면",
+        "en": "Milmyeon"
+      },
+      "description": {
+        "ko": "부산의 대표 면요리로, 밀가루면을 차가운 육수에 말아낸 음식",
+        "en": "Busan's representative noodle dish with wheat flour noodles in cold broth"
+      },
+      "origin": {
+        "ko": "한국전쟁 당시 부산으로 피난 온 함경도 출신 실향민들이 메밀 대신 구하기 쉬운 밀가루로 만든 냉면에서 시작되었습니다. 부산의 독특한 지역 음식으로 발전했습니다.",
+        "en": "It originated from refugees from Hamgyong Province who came to Busan during the Korean War, creating cold noodles with easily available wheat flour instead of buckwheat. It developed into Busan's unique local cuisine."
+      },
+      "history": {
+        "ko": "1950년대 부산 중구 일대에서 시작되어 1960-70년대 부산 전역으로 확산되었습니다. 2000년대 들어 부산을 대표하는 향토음식으로 인정받으며 전국적으로 알려지기 시작했습니다.",
+        "en": "Starting in Jung-gu, Busan in the 1950s, it spread throughout Busan in the 1960s-70s. In the 2000s, it was recognized as Busan's representative local cuisine and began to be known nationwide."
+      },
+      "geography": {
+        "ko": "부산의 따뜻한 기후와 항구도시 특성상 밀가루 수입이 용이했던 점이 밀면 발전에 기여했습니다. 바닷바람의 영향으로 면발이 쫄깃하게 마르는 자연조건도 밀면의 독특한 식감 형성에 도움이 되었습니다.",
+        "en": "Busan's warm climate and easy wheat flour imports due to its port city characteristics contributed to milmyeon's development. Natural conditions where sea breeze helped noodles dry chewy also aided in forming milmyeon's unique texture."
+      }
+    },
+    {
+      "id": "ssiat-hotteok",
+      "name": {
+        "ko": "씨앗호떡",
+        "en": "Ssiat Hotteok"
+      },
+      "description": {
+        "ko": "견과류와 씨앗을 넣어 만든 부산만의 특별한 호떡",
+        "en": "Special hotteok unique to Busan made with nuts and seeds"
+      },
+      "origin": {
+        "ko": "1960년대 부산 용두산공원 근처에서 처음 만들어진 것으로 알려져 있습니다. 기존 호떡에 해바라기씨, 호박씨, 땅콩 등을 넣어 부산만의 독특한 맛을 만들어냈습니다.",
+        "en": "Known to have been first made near Yongdusan Park in Busan in the 1960s. It created Busan's unique taste by adding sunflower seeds, pumpkin seeds, and peanuts to traditional hotteok."
+      },
+      "history": {
+        "ko": "부산의 항구 특성상 다양한 수입 견과류와 씨앗을 쉽게 구할 수 있었던 환경에서 탄생했습니다. 1980년대 이후 부산의 대표적인 길거리 음식으로 자리잡았고, 관광객들에게 큰 인기를 얻고 있습니다.",
+        "en": "Born from an environment where various imported nuts and seeds were easily available due to Busan's port characteristics. Since the 1980s, it has established itself as Busan's representative street food and gained great popularity among tourists."
+      },
+      "geography": {
+        "ko": "부산의 해양성 기후는 견과류와 씨앗의 보관에 적합했고, 국제무역항의 특성상 다양한 재료의 수급이 원활했습니다. 또한 관광도시로서 새로운 맛에 대한 수요가 있었던 것도 씨앗호떡 발전에 기여했습니다.",
+        "en": "Busan's maritime climate was suitable for storing nuts and seeds, and as an international trading port, supply of various ingredients was smooth. Demand for new flavors as a tourist city also contributed to the development of ssiat hotteok."
+      }
+    },
+    {
+      "id": "dwaeji-gukbap",
+      "name": {
+        "ko": "돼지국밥",
+        "en": "Dwaeji Gukbap"
+      },
+      "description": {
+        "ko": "돼지뼈를 우린 진한 국물에 밥을 말아 먹는 부산의 서민 음식",
+        "en": "A common people's dish from Busan with rice in rich broth made from pork bones"
+      },
+      "origin": {
+        "ko": "일제강점기 부산항 부두 노동자들을 위한 든든한 한 끼 식사로 시작되었습니다. 값싸고 영양가 높은 돼지뼈를 이용해 만든 서민적인 음식에서 출발했습니다.",
+        "en": "It started as a hearty meal for dock workers at Busan Port during the Japanese colonial period. It began as a common people's food made with cheap and nutritious pork bones."
+      },
+      "history": {
+        "ko": "한국전쟁 이후 부산으로 몰려든 피난민들에게 저렴하고 든든한 식사를 제공하는 역할을 했습니다. 1970년대 이후 부산의 대표 음식으로 자리잡았고, 현재는 전국적으로 사랑받는 음식이 되었습니다.",
+        "en": "After the Korean War, it served as an affordable and hearty meal for refugees who flocked to Busan. Since the 1970s, it has established itself as Busan's representative food and has now become a nationally beloved dish."
+      },
+      "geography": {
+        "ko": "부산의 항구도시 특성상 돼지고기 유통이 활발했고, 바닷바람과 습한 기후는 뜨거운 국물 요리에 대한 수요를 높였습니다. 또한 노동자들이 많은 공업도시 환경이 고칼로리 음식의 필요성을 증가시켰습니다.",
+        "en": "Due to Busan's port city characteristics, pork distribution was active, and sea breeze and humid climate increased demand for hot soup dishes. The industrial city environment with many workers also increased the need for high-calorie food."
+      }
+    }
+  ]
+}
