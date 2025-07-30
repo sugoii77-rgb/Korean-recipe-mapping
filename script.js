@@ -49,7 +49,10 @@ const cities = {
     incheon: { lat: 37.4563, lng: 126.7052, name: { ko: "인천", en: "Incheon" } },
     chuncheon: { lat: 37.8813, lng: 127.7298, name: { ko: "춘천", en: "Chuncheon" } },
     mokpo: { lat: 34.8118, lng: 126.3922, name: { ko: "목포", en: "Mokpo" } },
-    daejeon: { lat: 36.3504, lng: 127.3845, name: { ko: "대전", en: "Daejeon" } }
+    daejeon: { lat: 36.3504, lng: 127.3845, name: { ko: "대전", en: "Daejeon" } },
+    ansan: { lat: 37.3236, lng: 126.8219, name: { ko: "안산", en: "Ansan" } },
+    hupo: { lat: 36.6789, lng: 129.4167, name: { ko: "후포", en: "Hupo" } },
+    uijeongbu: { lat: 37.7384, lng: 127.0408, name: { ko: "의정부", en: "Uijeongbu" } }
 };
 
 // 초기화
