@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="title">한국 전통 요리 지도</title>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K40DNLEEGN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K40DNLEEGN');
+    </script>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 data-i18n="main_title">🍜 한국 전통 요리 탐험</h1>
+            <div class="header-controls">
+                <div class="language-switcher">
+                    <button class="lang-btn active" data-lang="ko">한국어</button>
+                    <button class="lang-btn" data-lang="en">English</button>
+                </div>
+                <a href="about.html" class="about-btn" title="소개" data-i18n-title="about">
+                    🏠 <span data-i18n="about">소개</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="search-container">
+            <input type="text" id="food-search" data-i18n-placeholder="search_placeholder" placeholder="음식 이름을 검색하세요...">
+            <div id="search-results" class="search-results"></div>
+        </div>
+
+        <div class="app-container">
+            <div class="map-container">
+                <div id="map"></div>
+            </div>
+            
+            <div class="info-panel" id="info-panel">
+                <div class="panel-header">
+                    <h3 data-i18n="select_city">도시를 선택하세요</h3>
+                    <button class="close-btn" id="close-panel">&times;</button>
+                </div>
+                <div class="panel-content" id="panel-content">
+                    <p data-i18n="welcome_message">지도에서 도시 마커를 클릭하여 전통 요리를 탐험해보세요!</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+</html>
