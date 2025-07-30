@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "강릉",
+    "en": "Gangneung"
+  },
+  "foods": [
+    {
+      "id": "chodang-sundubu",
+      "name": {
+        "ko": "초당순두부",
+        "en": "Chodang Sundubu"
+      },
+      "description": {
+        "ko": "강릉 초당마을에서 바닷물로 만든 부드럽고 고소한 순두부",
+        "en": "Soft and savory soft tofu made with seawater in Chodang Village, Gangneung"
+      },
+      "origin": {
+        "ko": "조선후기 허균의 아버지 허엽이 강릉 초당동에 정착하면서 시작되었습니다. 깨끗한 동해 바닷물을 간수로 사용하여 만든 독특한 제조법으로 유명해졌습니다.",
+        "en": "It began when Heo Yeop, father of Heo Gyun, settled in Chodang-dong, Gangneung during the late Joseon period. It became famous for its unique manufacturing method using clean East Sea water as a coagulant."
+      },
+      "history": {
+        "ko": "400여 년의 전통을 자랑하는 강릉의 대표 음식으로, 허균과 허난설헌 남매가 태어난 곳에서 발달했습니다. 1960년대부터 본격적으로 상품화되어 현재는 강릉 관광의 필수 코스가 되었습니다.",
+        "en": "A representative food of Gangneung with over 400 years of tradition, it developed where siblings Heo Gyun and Heo Nanseolheon were born. It was commercialized in earnest from the 1960s and has now become an essential course of Gangneung tourism."
+      },
+      "geography": {
+        "ko": "강릉의 청정한 동해 바닷물과 태백산맥에서 흘러내리는 맑은 물이 만나는 지역적 특성이 초당순두부의 독특한 맛을 만들어냅니다. 해풍과 산풍이 만나는 기후도 콩의 품질에 영향을 미쳤습니다.",
+        "en": "The regional characteristics where clean East Sea water meets clear water flowing down from the Taebaek Mountains create the unique taste of Chodang sundubu. The climate where sea breeze meets mountain breeze also affected the quality of soybeans."
+      }
+    },
+    {
+      "id": "ojingeo-sundae",
+      "name": {
+        "ko": "오징어순대",
+        "en": "Ojingeo Sundae"
+      },
+      "description": {
+        "ko": "신선한 오징어에 찹쌀과 채소를 넣고 쪄낸 강릉의 특별한 순대",
+        "en": "Special sundae from Gangneung made by stuffing fresh squid with glutinous rice and vegetables"
+      },
+      "origin": {
+        "ko": "동해안의 풍부한 오징어와 강릉 지역의 찹쌀이 만나 탄생한 향토음식입니다. 1970년대 강릉 중앙시장에서 처음 만들어진 것으로 알려져 있습니다.",
+        "en": "A local food born from the combination of abundant squid from the East Coast and glutinous rice from the Gangneung region. It is known to have been first made in Gangneung Central Market in the 1970s."
+      },
+      "history": {
+        "ko": "강릉의 어업과 농업이 결합된 독창적인 음식으로, 관광객들에게 큰 인기를 얻으며 강릉을 대표하는 별미로 자리잡았습니다. 1980년대부터 전국적으로 알려지기 시작했습니다.",
+        "en": "An original food that combines Gangneung's fishing and agriculture, it gained great popularity among tourists and established itself as a representative delicacy of Gangneung. It began to be known nationwide from the 1980s."
+      },
+      "geography": {
+        "ko": "동해의 차가운 바닷물에서 잡히는 싱싱한 오징어와 강릉 평야에서 생산되는 양질의 찹쌀이 오징어순대의 핵심 재료입니다. 해안가의 습한 기후는 찹쌀의 쫄깃한 식감을 살리는 데 도움이 됩니다.",
+        "en": "Fresh squid caught in the cold waters of the East Sea and high-quality glutinous rice produced in Gangneung Plain are the key ingredients of ojingeo sundae. The humid climate of the coastal area helps bring out the chewy texture of glutinous rice."
+      }
+    },
+    {
+      "id": "sacheon-makguksu",
+      "name": {
+        "ko": "사천막국수",
+        "en": "Sacheon Makguksu"
+      },
+      "description": {
+        "ko": "강릉 사천면 지역의 특산 메밀로 만든 시원하고 담백한 막국수",
+        "en": "Refreshing and light makguksu made with buckwheat specialty from Sacheon-myeon, Gangneung"
+      },
+      "origin": {
+        "ko": "강릉 사천면의 고랭지에서 재배되는 품질 좋은 메밀을 이용해 만든 향토음식입니다. 산간지역의 서늘한 기후가 메밀 재배에 최적의 조건을 제공했습니다.",
+        "en": "A local food made with high-quality buckwheat grown in the highland of Sacheon-myeon, Gangneung. The cool climate of the mountainous region provided optimal conditions for buckwheat cultivation."
+      },
+      "history": {
+        "ko": "1960년대부터 강릉 지역 농가에서 메밀을 직접 갈아 만들어 먹던 음식이 1980년대 들어 상품화되기 시작했습니다. 현재는 강릉을 찾는 관광객들의 필수 메뉴가 되었습니다.",
+        "en": "Food that was made by grinding buckwheat directly by farmers in the Gangneung region from the 1960s began to be commercialized in the 1980s. It has now become an essential menu for tourists visiting Gangneung."
+      },
+      "geography": {
+        "ko": "태백산맥의 고랭지 기후와 깨끗한 물이 만나 최상급 메밀이 생산됩니다. 강릉의 일교차가 큰 기후는 메밀의 단단하고 고소한 맛을 만드는 핵심 요소입니다.",
+        "en": "The highland climate of the Taebaek Mountains meets clean water to produce the finest buckwheat. Gangneung's climate with large daily temperature differences is a key element in creating the firm and savory taste of buckwheat."
+      }
+    }
+  ]
+}
