@@ -1,234 +1,76 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>소개 - 한국 전통 요리 지도</title>
-    
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K40DNLEEGN"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-K40DNLEEGN');
-    </script>
-    
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            line-height: 1.6;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem 1rem;
-        }
-
-        .card {
-            background: white;
-            border-radius: 20px;
-            padding: 3rem;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
-            margin-bottom: 2rem;
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-        }
-
-        .header h1 {
-            color: #333;
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .header p {
-            color: #666;
-            font-size: 1.2rem;
-        }
-
-        .section {
-            margin-bottom: 2.5rem;
-        }
-
-        .section h2 {
-            color: #667eea;
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            border-left: 4px solid #667eea;
-            padding-left: 1rem;
-        }
-
-        .section p {
-            color: #555;
-            margin-bottom: 1rem;
-        }
-
-        .section ul {
-            color: #555;
-            padding-left: 1.5rem;
-        }
-
-        .section li {
-            margin-bottom: 0.5rem;
-        }
-
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-        }
-
-        .tech-item {
-            background: #f8f9fa;
-            padding: 1rem;
-            border-radius: 10px;
-            border-left: 4px solid #667eea;
-        }
-
-        .tech-item strong {
-            color: #333;
-            display: block;
-            margin-bottom: 0.5rem;
-        }
-
-        .back-btn {
-            display: inline-block;
-            background: #667eea;
-            color: white;
-            padding: 1rem 2rem;
-            text-decoration: none;
-            border-radius: 25px;
-            transition: all 0.3s ease;
-            font-weight: 500;
-            margin-top: 2rem;
-        }
-
-        .back-btn:hover {
-            background: #5a6fd8;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
-        }
-
-        .highlight {
-            background: linear-gradient(120deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.1) 100%);
-            padding: 1.5rem;
-            border-radius: 10px;
-            border: 1px solid rgba(102, 126, 234, 0.2);
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 1rem 0.5rem;
-            }
-            
-            .card {
-                padding: 2rem 1.5rem;
-            }
-            
-            .header h1 {
-                font-size: 2rem;
-            }
-            
-            .tech-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About - 한국 전통 요리 지도</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fffaf4;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .lang-switch {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .lang-switch button {
+      margin: 0 10px;
+      padding: 6px 12px;
+      border: none;
+      background-color: #f37c48;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <div class="card">
-            <div class="header">
-                <h1>🍜 한국 전통 요리 탐험</h1>
-                <p>Korean Traditional Food Explorer</p>
-            </div>
+  <div class="lang-switch">
+    <button onclick="showLang('ko')">한국어</button>
+    <button onclick="showLang('en')">English</button>
+  </div>
 
-            <div class="section">
-                <h2>🎯 프로젝트 목적</h2>
-                <div class="highlight">
-                    <p>이 웹앱은 한국의 아름다운 전통 요리 문화를 지역별로 탐험할 수 있도록 만들어졌습니다. 각 지역의 고유한 음식 문화와 그 뒤에 숨겨진 역사적, 지리적 배경을 쉽고 재미있게 학습할 수 있습니다.</p>
-                </div>
-            </div>
+  <div class="section lang ko">
+    <h1>🍲 한국 전통 요리 지도 소개</h1>
+    <p>
+      이 웹앱은 단순한 요리 소개가 아닙니다.<br/>
+      지역의 역사, 기후, 지리까지 함께 담은 한 그릇의 이야기입니다.<br/><br/>
+      사용자가 지도를 통해 도시를 클릭하면 그 지역의 대표 음식을 소개하고,<br/>
+      반대로 음식명을 입력하면 그 음식이 뿌리내린 도시를 알려줍니다.<br/><br/>
+      우리가 매일 먹는 음식 속엔 그 도시의 삶이 담겨 있습니다.<br/>
+      이 앱은 그걸 함께 느끼고 싶은 마음에서 출발했습니다.
+    </p>
+    <p style="text-align: right;">- 개발자 오영환</p>
+  </div>
 
-            <div class="section">
-                <h2>🗺️ 활용 방법</h2>
-                <ul>
-                    <li><strong>지도 탐험:</strong> 지도에서 관심 있는 도시 마커를 클릭하여 해당 지역의 전통 요리를 확인하세요</li>
-                    <li><strong>음식 검색:</strong> 상단 검색창에 음식 이름을 입력하면 해당 음식이 있는 지역이 하이라이트됩니다</li>
-                    <li><strong>상세 정보:</strong> 각 요리를 클릭하면 유래, 역사적 배경, 지리적 특징을 자세히 볼 수 있습니다</li>
-                    <li><strong>다국어 지원:</strong> 우측 상단의 언어 버튼으로 한국어/영어를 전환할 수 있습니다</li>
-                </ul>
-            </div>
+  <div class="section lang en" style="display: none;">
+    <h1>🍲 About the Korean Cuisine Map</h1>
+    <p>
+      This is not just a food app — it's a cultural journey in a bowl.<br/>
+      By selecting a city, you can explore its signature dishes.<br/>
+      By entering a dish name, you'll discover where it originated.<br/><br/>
+      Each Korean dish reflects a story shaped by history, geography, and climate.<br/>
+      This app was created to help you taste that story — one dish at a time.
+    </p>
+    <p style="text-align: right;">- Created by Young-Hwan Oh</p>
+  </div>
 
-            <div class="section">
-                <h2>👨‍💻 제작자 정보</h2>
-                <p>이 프로젝트는 한국의 전통 음식 문화를 널리 알리고자 하는 마음으로 개발되었습니다. 순수 HTML, CSS, JavaScript로 구현되어 GitHub Pages에서 쉽게 배포 가능하도록 설계되었습니다.</p>
-                <p><strong>개발 목표:</strong> 사용자 친화적인 인터페이스를 통해 한국 전통 요리의 아름다움과 깊이를 전 세계에 소개하는 것</p>
-            </div>
-
-            <div class="section">
-                <h2>🛠️ 사용된 오픈소스 기술</h2>
-                <div class="tech-grid">
-                    <div class="tech-item">
-                        <strong>🗺️ Leaflet.js</strong>
-                        <p>인터랙티브 지도 라이브러리로 사용자 친화적인 지도 인터페이스를 제공합니다.</p>
-                    </div>
-                    <div class="tech-item">
-                        <strong>🌍 OpenStreetMap</strong>
-                        <p>오픈소스 지도 타일 서비스로 무료이면서도 상세한 지도 데이터를 제공합니다.</p>
-                    </div>
-                    <div class="tech-item">
-                        <strong>💻 Vanilla JavaScript</strong>
-                        <p>별도의 프레임워크 없이 순수 JavaScript로 구현하여 빠른 로딩과 가벼운 용량을 실현했습니다.</p>
-                    </div>
-                    <div class="tech-item">
-                        <strong>🎨 CSS3</strong>
-                        <p>현대적인 CSS 기능들을 활용하여 아름답고 반응형인 디자인을 구현했습니다.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="section">
-                <h2>📊 기술적 특징</h2>
-                <ul>
-                    <li><strong>반응형 디자인:</strong> 모바일, 태블릿, 데스크톱 모든 기기에서 최적화된 경험</li>
-                    <li><strong>다국어 지원:</strong> 한국어/영어 실시간 전환 기능</li>
-                    <li><strong>검색 기능:</strong> 실시간 음식 검색 및 자동 하이라이트</li>
-                    <li><strong>모듈화된 데이터:</strong> JSON 파일을 통한 확장 가능한 도시/음식 데이터 구조</li>
-                    <li><strong>성능 최적화:</strong> 빠른 로딩과 부드러운 애니메이션</li>
-                    <li><strong>접근성:</strong> 시맨틱 HTML과 키보드 네비게이션 지원</li>
-                </ul>
-            </div>
-
-            <div class="section">
-                <h2>🚀 향후 계획</h2>
-                <p>이 프로젝트는 지속적으로 발전해 나갈 예정입니다:</p>
-                <ul>
-                    <li>더 많은 도시와 전통 요리 추가</li>
-                    <li>음식 레시피 및 영양 정보 제공</li>
-                    <li>사용자 리뷰 및 평점 시스템</li>
-                    <li>음식점 위치 정보 연동</li>
-                    <li>소셜 미디어 공유 기능</li>
-                </ul>
-            </div>
-
-            <div style="text-align: center;">
-                <a href="index.html" class="back-btn">🏠 메인으로 돌아가기</a>
-            </div>
-        </div>
-    </div>
+  <script>
+    function showLang(lang) {
+      document.querySelectorAll('.lang').forEach(el => el.style.display = 'none');
+      document.querySelector(`.lang.${lang}`).style.display = 'block';
+    }
+  </script>
 </body>
 </html>
