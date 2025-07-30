@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "안동",
+    "en": "Andong"
+  },
+  "foods": [
+    {
+      "id": "andong-jjimdak",
+      "name": {
+        "ko": "안동찜닭",
+        "en": "Andong Jjimdak"
+      },
+      "description": {
+        "ko": "닭고기와 야채를 간장 양념에 졸여낸 안동의 대표 음식",
+        "en": "Andong's representative dish of chicken and vegetables braised in soy sauce seasoning"
+      },
+      "origin": {
+        "ko": "1980년대 안동 구시장 닭골목에서 시작된 음식으로, 닭백숙집들이 경쟁력을 높이기 위해 개발한 새로운 요리법에서 탄생했습니다.",
+        "en": "A dish that started in the chicken alley of Andong Old Market in the 1980s, born from new cooking methods developed by chicken restaurants to increase competitiveness."
+      },
+      "history": {
+        "ko": "처음에는 안동 지역 대학생들 사이에서 인기를 얻기 시작했고, 1990년대 들어 전국적으로 확산되었습니다. 현재는 한국을 대표하는 치킨 요리 중 하나가 되었습니다.",
+        "en": "Initially, it began to gain popularity among college students in the Andong area and spread nationwide in the 1990s. It has now become one of Korea's representative chicken dishes."
+      },
+      "geography": {
+        "ko": "안동 지역의 깨끗한 물과 일교차가 큰 기후가 양질의 닭 사육에 적합했습니다. 또한 경상북도 내륙지역의 특성상 간장과 채소 등 양념재료의 보관이 용이했던 것도 찜닭 발전에 기여했습니다.",
+        "en": "Andong's clean water and climate with large daily temperature differences were suitable for raising quality chickens. The inland characteristics of North Gyeongsang Province also made it easy to store seasoning ingredients like soy sauce and vegetables, contributing to jjimdak's development."
+      }
+    },
+    {
+      "id": "andong-guksi",
+      "name": {
+        "ko": "안동국시",
+        "en": "Andong Guksi"
+      },
+      "description": {
+        "ko": "잔치나 제사 때 먹는 안동 전통의 얇은 국수",
+        "en": "Traditional thin noodles from Andong eaten during feasts or ancestral rites"
+      },
+      "origin": {
+        "ko": "조선시대 안동 지역 양반가에서 혼례나 제사 등 큰 행사 때 손님들에게 대접하던 음식에서 유래되었습니다. 안동이 유교문화의 중심지였던 만큼 격식을 중시한 음식문화가 발달했습니다.",
+        "en": "It originated from food served to guests during major events such as weddings or ancestral rites in aristocratic families of Andong during the Joseon Dynasty. As Andong was the center of Confucian culture, a food culture that emphasized formality developed."
+      },
+      "history": {
+        "ko": "안동 하회마을을 비롯한 전통마을에서 수백 년간 이어져 온 음식으로, 손으로 직접 뽑은 가느다란 면발이 특징입니다. 현재도 안동의 전통 음식점에서 옛 방식 그대로 만들어지고 있습니다.",
+        "en": "A food that has been passed down for hundreds of years in traditional villages including Andong Hahoe Village, characterized by thin noodles hand-pulled directly. It is still made in the old way at traditional restaurants in Andong."
+      },
+      "geography": {
+        "ko": "낙동강 상류의 맑은 물과 안동 분지의 온화한 기후가 좋은 밀 재배를 가능하게 했습니다. 내륙 분지 지형의 특성상 밀가루의 건조와 보관에 유리한 환경이었습니다.",
+        "en": "Clear water from the upper reaches of the Nakdong River and the mild climate of the Andong Basin enabled good wheat cultivation. The inland basin terrain characteristics provided an environment favorable for drying and storing flour."
+      }
+    },
+    {
+      "id": "heotjesabap",
+      "name": {
+        "ko": "헛제사밥",
+        "en": "Heotjesabap"
+      },
+      "description": {
+        "ko": "제사상에 올리는 음식들로 차린 안동의 전통 정식",
+        "en": "Traditional set meal from Andong prepared with foods offered on ancestral ritual tables"
+      },
+      "origin": {
+        "ko": "안동이 유교문화의 본고장으로 제사 문화가 발달하면서, 제사 후 나누어 먹던 음식들을 한 상에 차린 것에서 시작되었습니다. 제사를 지내지 않고도 제사상의 음식을 맛볼 수 있다는 의미에서 헛제사밥이라 불립니다.",
+        "en": "As Andong was the home of Confucian culture and ancestral rite culture developed, it started from arranging foods that were shared after ancestral rites on one table. It is called heotjesabap because it means you can taste ancestral ritual foods without actually performing the ritual."
+      },
+      "history": {
+        "ko": "조선시대부터 이어진 안동의 제사 문화에서 파생된 음식으로, 1980년대부터 관광 상품화되어 안동의 대표적인 향토음식으로 자리잡았습니다. 안동 하회마을 등 전통마을에서 특히 유명합니다.",
+        "en": "A food derived from Andong's ancestral rite culture that has continued since the Joseon Dynasty, it was commercialized as a tourist product from the 1980s and established itself as Andong's representative local food. It is especially famous in traditional villages such as Andong Hahoe Village."
+      },
+      "geography": {
+        "ko": "안동 분지의 비옥한 토양에서 나는 다양한 농산물과 낙동강의 민물고기가 헛제사밥의 풍성한 상차림을 가능하게 했습니다. 내륙지역의 특성상 저장 음식 문화가 발달한 것도 제사음식의 다양성에 기여했습니다.",
+        "en": "Various agricultural products from the fertile soil of the Andong Basin and freshwater fish from the Nakdong River enabled the abundant table setting of heotjesabap. The development of preserved food culture due to inland characteristics also contributed to the diversity of ritual foods."
+      }
+    }
+  ]
+}
