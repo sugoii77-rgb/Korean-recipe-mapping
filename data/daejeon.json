@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "대전",
+    "en": "Daejeon"
+  },
+  "foods": [
+    {
+      "id": "daejeon-kalgusku",
+      "name": {
+        "ko": "대전칼국수",
+        "en": "Daejeon Kalguksu"
+      },
+      "description": {
+        "ko": "대전 지역 특유의 진한 육수와 쫄깃한 면발의 칼국수",
+        "en": "Kalguksu with rich broth and chewy noodles characteristic of Daejeon region"
+      },
+      "origin": {
+        "ko": "1905년 경부선 철도 개통과 함께 대전역 주변에서 시작된 음식으로, 전국 각지에서 온 사람들을 위한 간편하고 든든한 한 끼 식사로 발달했습니다.",
+        "en": "A food that started around Daejeon Station with the opening of the Gyeongbu Line railway in 1905, it developed as a simple and hearty meal for people from all over the country."
+      },
+      "history": {
+        "ko": "일제강점기와 한국전쟁을 거치며 대전역 일대의 대표 음식으로 자리잡았고, 1960년대부터 대전의 향토음식으로 알려지기 시작했습니다. 현재는 대전을 대표하는 서민 음식으로 사랑받고 있습니다.",
+        "en": "Through the Japanese colonial period and Korean War, it established itself as a representative food around Daejeon Station, and began to be known as Daejeon's local food from the 1960s. It is now loved as Daejeon's representative common people's food."
+      },
+      "geography": {
+        "ko": "대전 분지의 깨끗한 지하수와 충청도 평야에서 생산되는 우수한 밀가루가 칼국수의 쫄깃한 면발을 만들어냅니다. 내륙 분지의 특성상 면 요리 문화가 발달하여 칼국수가 정착했습니다.",
+        "en": "Clean groundwater from Daejeon Basin and excellent flour produced in Chungcheong Plain create kalguksu's chewy noodles. Due to inland basin characteristics, noodle dish culture developed and kalguksu was established."
+      }
+    },
+    {
+      "id": "seongsimdang-ppang",
+      "name": {
+        "ko": "성심당빵",
+        "en": "Seongsimdang Bread"
+      },
+      "description": {
+        "ko": "대전의 대표 베이커리 성심당에서 만드는 전통 빵과 케이크",
+        "en": "Traditional bread and cakes made at Seongsimdang, Daejeon's representative bakery"
+      },
+      "origin": {
+        "ko": "1956년 임길순 할머니가 대전역 앞에서 시작한 작은 빵집에서 유래되었습니다. 일제강점기 일본에서 배운 제빵 기술을 바탕으로 한국인의 입맛에 맞는 빵을 만들기 시작했습니다.",
+        "en": "It originated from a small bakery that Grandmother Im Gil-soon started in front of Daejeon Station in 1956. Based on baking techniques learned in Japan during the Japanese colonial period, she began making bread suited to Korean tastes."
+      },
+      "history": {
+        "ko": "1960년대부터 대전 지역의 대표 빵집으로 자리잡기 시작했고, 1970년대 들어 전국적으로 유명해졌습니다. 현재는 3대째 이어지는 대전의 명물로 대전 관광의 필수 코스가 되었습니다.",
+        "en": "From the 1960s, it began to establish itself as Daejeon's representative bakery, and became famous nationwide in the 1970s. It is now a Daejeon landmark continuing for three generations and has become an essential course of Daejeon tourism."
+      },
+      "geography": {
+        "ko": "대전의 깨끗한 지하수와 충청도 지역의 우수한 밀가루가 성심당 빵의 부드러운 식감을 만들어냅니다. 대전의 온화한 기후는 빵의 발효와 보관에 최적의 조건을 제공합니다.",
+        "en": "Daejeon's clean groundwater and excellent flour from Chungcheong region create the soft texture of Seongsimdang bread. Daejeon's mild climate provides optimal conditions for bread fermentation and storage."
+      }
+    },
+    {
+      "id": "daejeon-sundaeguk",
+      "name": {
+        "ko": "대전순대국",
+        "en": "Daejeon Sundaeguk"
+      },
+      "description": {
+        "ko": "대전 지역 특유의 깔끔하고 진한 국물의 순대국",
+        "en": "Sundaeguk with clean and rich broth characteristic of Daejeon region"
+      },
+      "origin": {
+        "ko": "대전역 주변의 시장에서 시작된 서민 음식으로, 전국 각지에서 온 사람들에게 저렴하고 든든한 한 끼를 제공하기 위해 발달했습니다. 충청도 지역의 담백한 음식 문화가 반영된 순대국입니다.",
+        "en": "A common people's food that started in markets around Daejeon Station, it developed to provide an affordable and hearty meal for people from all over the country. Sundaeguk reflecting Chungcheong region's light food culture."
+      },
+      "history": {
+        "ko": "1950년대부터 대전 중앙시장을 중심으로 순대국집들이 생겨나기 시작했고, 1970년대 들어 대전의 대표적인 서민 음식으로 자리잡았습니다. 현재도 대전 시민들의 사랑을 받는 해장국으로 인기입니다.",
+        "en": "From the 1950s, sundaeguk restaurants began to appear around Daejeon Central Market, and in the 1970s, it established itself as Daejeon's representative common people's food. It is still popular as a hangover soup loved by Daejeon citizens."
+      },
+      "geography": {
+        "ko": "대전 주변의 농업지역에서 생산되는 신선한 채소와 깨끗한 지하수가 순대국의 깔끔한 맛을 만들어냅니다. 충청도 내륙지역의 특성상 담백하고 깔끔한 음식 문화가 순대국에도 반영되었습니다.",
+        "en": "Fresh vegetables produced in agricultural areas around Daejeon and clean groundwater create sundaeguk's clean taste. Due to Chungcheong inland characteristics, light and clean food culture was reflected in sundaeguk as well."
+      }
+    }
+  ]
+}
