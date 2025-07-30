@@ -1,0 +1,68 @@
+{
+  "city": {
+    "ko": "전주",
+    "en": "Jeonju"
+  },
+  "foods": [
+    {
+      "id": "bibimbap",
+      "name": {
+        "ko": "비빔밥",
+        "en": "Bibimbap"
+      },
+      "description": {
+        "ko": "다양한 나물과 고기를 올린 밥에 고추장을 넣고 비벼 먹는 전주의 대표 음식",
+        "en": "Jeonju's representative dish of rice topped with various seasoned vegetables and meat, mixed with gochujang"
+      },
+      "origin": {
+        "ko": "조선시대 전주가 조선왕조의 발상지였던 만큼 궁중요리의 영향을 받아 발달했습니다. 전라도의 풍부한 농산물과 전주 지역의 뛰어난 요리 솜씨가 결합되어 현재의 모습으로 완성되었습니다.",
+        "en": "As Jeonju was the birthplace of the Joseon Dynasty, it developed under the influence of royal court cuisine. The combination of Jeolla Province's abundant agricultural products and Jeonju's excellent culinary skills perfected it into its current form."
+      },
+      "history": {
+        "ko": "조선후기부터 전주 지역 양반가의 대표 음식으로 자리잡았습니다. 일제강점기에도 그 전통이 이어졌고, 1980년대 이후 한국을 대표하는 건강 음식으로 세계에 알려지기 시작했습니다.",
+        "en": "Since the late Joseon period, it has established itself as a representative dish of aristocratic families in the Jeonju region. The tradition continued even during the Japanese colonial period, and since the 1980s, it began to be known worldwide as Korea's representative healthy food."
+      },
+      "geography": {
+        "ko": "전라북도의 비옥한 호남평야에서 생산되는 우수한 쌀과 다양한 채소가 비빔밥의 기본이 되었습니다. 전주의 온화한 기후는 다양한 나물의 재배를 가능하게 했고, 이는 비빔밥의 다채로운 맛을 만들어냈습니다.",
+        "en": "Excellent rice and various vegetables produced in the fertile Honam Plain of North Jeolla Province became the foundation of bibimbap. Jeonju's mild climate enabled the cultivation of various wild vegetables, creating bibimbap's diverse flavors."
+      }
+    },
+    {
+      "id": "kongnamul-gukbap",
+      "name": {
+        "ko": "콩나물국밥",
+        "en": "Kongnamul Gukbap"
+      },
+      "description": {
+        "ko": "콩나물을 우린 시원한 국물에 밥을 말아 먹는 전주의 해장국",
+        "en": "Jeonju's hangover soup with rice in refreshing broth made from bean sprouts"
+      },
+      "origin": {
+        "ko": "조선시대 전주 지역에서 콩 재배가 활발했던 것에서 유래되었습니다. 값싸고 영양가 높은 콩나물을 이용해 서민들이 즐겨 먹던 음식에서 발전했습니다.",
+        "en": "It originated from active soybean cultivation in the Jeonju region during the Joseon Dynasty. It developed from a food that common people enjoyed eating using cheap and nutritious bean sprouts."
+      },
+      "history": {
+        "ko": "일제강점기와 한국전쟁을 거치며 서민들의 중요한 단백질 공급원 역할을 했습니다. 1960년대 이후 해장국으로서의 기능이 강화되면서 전주의 대표적인 서민 음식으로 자리잡았습니다.",
+        "en": "Through the Japanese colonial period and Korean War, it served as an important protein source for common people. Since the 1960s, its function as a hangover soup was strengthened, establishing itself as Jeonju's representative common people's food."
+      },
+      "geography": {
+        "ko": "전라북도는 한국 최대의 콩 생산지 중 하나로, 질 좋은 콩나물 생산이 가능했습니다. 전주 지역의 깨끗한 지하수는 콩나물의 아삭한 식감을 만드는 데 중요한 역할을 했습니다.",
+        "en": "North Jeolla Province is one of Korea's largest soybean production areas, enabling high-quality bean sprout production. Clean groundwater in the Jeonju region played an important role in creating the crispy texture of bean sprouts."
+      }
+    },
+    {
+      "id": "jeonju-hanok-maeul-tteok",
+      "name": {
+        "ko": "전주한과",
+        "en": "Jeonju Hangwa"
+      },
+      "description": {
+        "ko": "전주 지역의 전통 과자로, 꿀과 견과류를 이용해 만든 한국 전통 디저트",
+        "en": "Traditional confectionery from Jeonju region, Korean traditional dessert made with honey and nuts"
+      },
+      "origin": {
+        "ko": "조선왕조의 발상지인 전주에서 궁중과자 제조 기술이 민간에 전수되면서 발달했습니다. 전주 지역 특산품인 우수한 꿀과 견과류를 활용해 독특한 맛을 만들어냈습니다.",
+        "en": "It developed as royal court confectionery-making techniques were passed down to civilians in Jeonju, the birthplace of the Joseon Dynasty. It created unique flavors using excellent honey and nuts, which are local specialties of the Jeonju region."
+      },
+      "history": {
+        "ko": "조선시대부터 혼례나 제사 등 중요한 행사에 사용되는 고급 과자였습니다. 일제강점기에도 그 전통이 유지
