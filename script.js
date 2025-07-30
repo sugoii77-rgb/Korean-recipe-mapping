@@ -44,7 +44,12 @@ const cities = {
     andong: { lat: 36.5684, lng: 128.7294, name: { ko: "안동", en: "Andong" } },
     jeju: { lat: 33.4996, lng: 126.5312, name: { ko: "제주", en: "Jeju" } },
     daegu: { lat: 35.8714, lng: 128.6014, name: { ko: "대구", en: "Daegu" } },
-    gwangju: { lat: 35.1595, lng: 126.8526, name: { ko: "광주", en: "Gwangju" } }
+    gwangju: { lat: 35.1595, lng: 126.8526, name: { ko: "광주", en: "Gwangju" } },
+    suwon: { lat: 37.2636, lng: 127.0286, name: { ko: "수원", en: "Suwon" } },
+    incheon: { lat: 37.4563, lng: 126.7052, name: { ko: "인천", en: "Incheon" } },
+    chuncheon: { lat: 37.8813, lng: 127.7298, name: { ko: "춘천", en: "Chuncheon" } },
+    mokpo: { lat: 34.8118, lng: 126.3922, name: { ko: "목포", en: "Mokpo" } },
+    daejeon: { lat: 36.3504, lng: 127.3845, name: { ko: "대전", en: "Daejeon" } }
 };
 
 // 초기화
