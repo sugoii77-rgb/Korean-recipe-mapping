@@ -39,7 +39,12 @@ let currentHighlightedMarker = null;
 const cities = {
     seoul: { lat: 37.5665, lng: 126.9780, name: { ko: "서울", en: "Seoul" } },
     busan: { lat: 35.1796, lng: 129.0756, name: { ko: "부산", en: "Busan" } },
-    jeonju: { lat: 35.8242, lng: 127.1480, name: { ko: "전주", en: "Jeonju" } }
+    jeonju: { lat: 35.8242, lng: 127.1480, name: { ko: "전주", en: "Jeonju" } },
+    gangneung: { lat: 37.7519, lng: 128.8761, name: { ko: "강릉", en: "Gangneung" } },
+    andong: { lat: 36.5684, lng: 128.7294, name: { ko: "안동", en: "Andong" } },
+    jeju: { lat: 33.4996, lng: 126.5312, name: { ko: "제주", en: "Jeju" } },
+    daegu: { lat: 35.8714, lng: 128.6014, name: { ko: "대구", en: "Daegu" } },
+    gwangju: { lat: 35.1595, lng: 126.8526, name: { ko: "광주", en: "Gwangju" } }
 };
 
 // 초기화
@@ -61,23 +66,50 @@ function initializeMap() {
 
 // 도시 데이터 로드
 async function loadCityData() {
+    console.log('Loading city data...');
+    
     for (const [cityKey, cityInfo] of Object.entries(cities)) {
         try {
+            console.log(`Loading data for ${cityKey}...`);
             const response = await fetch(`data/${cityKey}.json`);
+            
+            if (!response.ok) {
+                console.error(`Failed to load ${cityKey}.json:`, response.status);
+                // JSON 파일이 없어도 마커는 생성
+                createMarker(cityKey, cityInfo);
+                continue;
+            }
+            
             const cityData = await response.json();
             allFoodData[cityKey] = cityData;
+            console.log(`Loaded ${cityKey} data:`, cityData);
             
             // 마커 생성
-            const marker = L.marker([cityInfo.lat, cityInfo.lng])
-                .addTo(map)
-                .bindPopup(`<strong>${cityInfo.name[currentLang]}</strong>`)
-                .on('click', () => showCityFoods(cityKey));
+            createMarker(cityKey, cityInfo);
             
-            markers[cityKey] = marker;
         } catch (error) {
             console.error(`Error loading ${cityKey} data:`, error);
+            // 에러가 발생해도 마커는 생성
+            createMarker(cityKey, cityInfo);
         }
     }
+    console.log('All markers created:', markers);
+}
+
+// 마커 생성 함수 분리
+function createMarker(cityKey, cityInfo) {
+    console.log(`Creating marker for ${cityKey} at`, cityInfo.lat, cityInfo.lng);
+    
+    const marker = L.marker([cityInfo.lat, cityInfo.lng])
+        .addTo(map)
+        .bindPopup(`<strong>${cityInfo.name[currentLang]}</strong>`)
+        .on('click', () => {
+            console.log(`Marker clicked: ${cityKey}`);
+            showCityFoods(cityKey);
+        });
+    
+    markers[cityKey] = marker;
+    console.log(`Marker created for ${cityKey}:`, marker);
 }
 
 // 이벤트 리스너 설정
@@ -267,12 +299,25 @@ function clearHighlightedMarker() {
 
 // 도시 음식 표시
 function showCityFoods(cityKey) {
+    console.log(`Showing foods for ${cityKey}`);
+    
     const cityData = allFoodData[cityKey];
     const cityName = cities[cityKey].name[currentLang];
     const panel = document.getElementById('info-panel');
     const content = document.getElementById('panel-content');
     
     document.querySelector('.panel-header h3').textContent = cityName;
+    
+    // 데이터가 없는 경우 처리
+    if (!cityData || !cityData.foods) {
+        content.innerHTML = `
+            <div class="city-foods">
+                <p>이 도시의 음식 데이터를 불러오는 중입니다...</p>
+                <p>또는 데이터 파일을 확인해주세요: data/${cityKey}.json</p>
+            </div>
+        `;
+        return;
+    }
     
     content.innerHTML = `
         <div class="city-foods">
