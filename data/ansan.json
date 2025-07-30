@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "안산",
+    "en": "ansan"
+  },
+  "foods": [
+    {
+      "id": "ansan-multicultural-food",
+      "name": {
+        "ko": "안산다문화음식",
+        "en": "Ansan Multicultural Food"
+      },
+      "description": {
+        "ko": "다양한 국가의 이주민들이 만들어낸 안산만의 특별한 퓨전 음식문화",
+        "en": "Special fusion food culture unique to Ansan created by immigrants from various countries"
+      },
+      "origin": {
+        "ko": "1970년대 반월공단 조성 이후 전국 각지에서 온 노동자들과 1990년대부터 유입된 다양한 국가의 이주민들이 만들어낸 독특한 음식문화입니다. 원곡동을 중심으로 한국과 세계 각국의 음식이 어우러진 특별한 지역이 되었습니다.",
+        "en": "A unique food culture created by workers from all over the country after the establishment of Banwol Industrial Complex in the 1970s and immigrants from various countries who flowed in from the 1990s. Centered around Wongok-dong, it became a special area where Korean and international cuisines blend together."
+      },
+      "history": {
+        "ko": "1990년대 후반부터 동남아시아, 중국, 인도, 파키스탄 등 다양한 국가의 이주민들이 정착하면서 원곡동 일대에 각국의 음식점들이 생겨나기 시작했습니다. 2000년대 들어 한국 최대의 다문화 음식거리로 발전하여 현재는 안산의 대표적인 문화 관광지가 되었습니다.",
+        "en": "From the late 1990s, as immigrants from various countries including Southeast Asia, China, India, and Pakistan settled, restaurants from each country began to appear around Wongok-dong. In the 2000s, it developed into Korea's largest multicultural food street and has now become Ansan's representative cultural tourist destination."
+      },
+      "geography": {
+        "ko": "서해안과 가까운 안산의 지리적 위치와 반월시화공단의 산업도시 특성이 다양한 국가의 노동자들을 불러 모았습니다. 인천공항과의 접근성이 좋아 이주민들의 정착지로 적합했으며, 이는 다문화 음식문화 발달의 기반이 되었습니다.",
+        "en": "Ansan's geographical location close to the west coast and the industrial city characteristics of Banwol Sihwa Industrial Complex attracted workers from various countries. Good accessibility to Incheon Airport made it suitable as a settlement for immigrants, which became the foundation for multicultural food culture development."
+      }
+    },
+    {
+      "id": "ansan-galchi-jorim",
+      "name": {
+        "ko": "안산갈치조림",
+        "en": "Ansan Galchi Jorim"
+      },
+      "description": {
+        "ko": "서해안 안산 앞바다에서 잡힌 신선한 갈치로 만든 매콤달콤한 조림",
+        "en": "Sweet and spicy braised dish made with fresh hairtail caught in the west coast waters off Ansan"
+      },
+      "origin": {
+        "ko": "안산 앞바다에서 잡히는 싱싱한 갈치를 이용해 만든 안산 지역의 전통 어요리입니다. 서해안 어촌 지역의 특성을 살린 갈치 요리로, 안산 지역 어민들의 생활과 밀접한 관련이 있는 향토음식입니다.",
+        "en": "A traditional fish dish from the Ansan region made with fresh hairtail caught in the sea off Ansan. A hairtail dish that utilizes the characteristics of west coast fishing villages, it is a local food closely related to the lives of fishermen in the Ansan region."
+      },
+      "history": {
+        "ko": "안산이 시로 승격되기 이전부터 이 지역 어민들이 즐겨 먹던 음식으로, 1980년대 안산신도시 개발과 함께 도시 지역으로도 확산되었습니다. 현재는 안산의 대표적인 향토음식 중 하나로 자리잡았습니다.",
+        "en": "A food that fishermen in this area enjoyed eating even before Ansan was promoted to a city, it spread to urban areas with the development of Ansan New Town in the 1980s. It has now established itself as one of Ansan's representative local foods."
+      },
+      "geography": {
+        "ko": "서해안의 얕은 바다와 갯벌이 갈치 서식에 좋은 환경을 제공하며, 안산 앞바다에서 잡히는 갈치는 살이 부드럽고 기름기가 적당해 조림용으로 최적입니다. 시화호와 인접한 지리적 특성도 갈치 어업에 유리한 조건을 만들어냅니다.",
+        "en": "The shallow seas and tidal flats of the west coast provide a good environment for hairtail habitats, and hairtail caught in the sea off Ansan has tender flesh and moderate fat content, making it optimal for braising. The geographical characteristics adjacent to Lake Sihwa also create favorable conditions for hairtail fishing."
+      }
+    },
+    {
+      "id": "ansan-bajirak-kalguksu",
+      "name": {
+        "ko": "안산바지락칼국수",
+        "en": "Ansan Bajirak Kalguksu"
+      },
+      "description": {
+        "ko": "안산 갯벌에서 나는 싱싱한 바지락으로 끓인 시원한 칼국수",
+        "en": "Refreshing kalguksu cooked with fresh short-neck clams from Ansan tidal flats"
+      },
+      "origin": {
+        "ko": "안산 대부도와 시화호 일대의 풍부한 갯벌에서 나는 바지락을 이용해 만든 향토음식입니다. 서해안 갯벌의 특산물인 바지락과 경기도 지역의 면 요리 문화가 결합되어 탄생한 안산만의 특별한 음식입니다.",
+        "en": "A local food made with short-neck clams from the abundant tidal flats around Ansan Daebu Island and Lake Sihwa. A special food unique to Ansan born from the combination of short-neck clams, a specialty of west coast tidal flats, and noodle dish culture from Gyeonggi Province."
+      },
+      "history": {
+        "ko": "1980년대 안산신도시 개발과 함께 지역 음식점들에서 바지락칼국수를 메뉴로 내놓기 시작했고, 1990년대 들어 안산의 대표 음식 중 하나로 자리잡았습니다. 현재는 대부도 관광과 연계된 안산의 특색 있는 메뉴로 인기를 얻고 있습니다.",
+        "en": "With the development of Ansan New Town in the 1980s, local restaurants began to offer bajirak kalguksu on their menus, and in the 1990s, it established itself as one of Ansan's representative foods. It is now gaining popularity as Ansan's distinctive menu linked with Daebu Island tourism."
+      },
+      "geography": {
+        "ko": "서해안의 넓은 갯벌과 시화호의 기수역 환경이 바지락 양식에 최적의 조건을 제공합니다. 안산 지역의 갯벌에서 자란 바지락은 살이 통통하고 감칠맛이 뛰어나 국물 요리에 특히 적합합니다.",
+        "en": "The wide tidal flats of the west coast and the brackish water environment of Lake Sihwa provide optimal conditions for short-neck clam cultivation. Short-neck clams grown in Ansan's tidal flats have plump flesh and excellent umami, making them especially suitable for soup dishes."
+      }
+    }
+  ]
+}
