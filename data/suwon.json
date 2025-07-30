@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "수원",
+    "en": "Suwon"
+  },
+  "foods": [
+    {
+      "id": "suwon-galbi",
+      "name": {
+        "ko": "수원갈비",
+        "en": "Suwon Galbi"
+      },
+      "description": {
+        "ko": "수원의 대표 음식으로 특별한 양념으로 재운 소갈비구이",
+        "en": "Suwon's representative dish of grilled beef ribs marinated in special seasoning"
+      },
+      "origin": {
+        "ko": "조선시대 화성 건설 당시 정조대왕이 수원 행차 때 즐겨 드셨다고 전해지는 음식입니다. 수원 화성 주변의 우수한 한우와 지역 특산 양념이 결합되어 만들어진 궁중 요리에서 유래되었습니다.",
+        "en": "A dish that King Jeongjo is said to have enjoyed during his visits to Suwon during the construction of Hwaseong Fortress in the Joseon Dynasty. It originated from royal court cuisine created by combining excellent Korean beef around Suwon Hwaseong with local specialty seasonings."
+      },
+      "history": {
+        "ko": "일제강점기에도 그 전통이 이어졌고, 1960년대 수원 영동시장을 중심으로 갈비골목이 형성되면서 서민화되었습니다. 1980년대부터 수원을 대표하는 관광 음식으로 발전하여 현재까지 사랑받고 있습니다.",
+        "en": "The tradition continued even during the Japanese colonial period, and it became popularized among common people as galbi alley was formed around Suwon Yeongdong Market in the 1960s. From the 1980s, it developed into a representative tourist food of Suwon and has been loved to this day."
+      },
+      "geography": {
+        "ko": "수원 일대의 비옥한 경기 평야에서 생산되는 우수한 한우와 수원천의 깨끗한 물이 갈비의 품질을 좌우합니다. 수원의 온화한 기후는 고기의 숙성과 양념의 발효에 최적의 조건을 제공합니다.",
+        "en": "Excellent Korean beef produced in the fertile Gyeonggi Plain around Suwon and clean water from Suwoncheon determine the quality of galbi. Suwon's mild climate provides optimal conditions for meat aging and seasoning fermentation."
+      }
+    },
+    {
+      "id": "hwaseong-yugwa",
+      "name": {
+        "ko": "화성유과",
+        "en": "Hwaseong Yugwa"
+      },
+      "description": {
+        "ko": "수원 화성의 전통을 이어받은 바삭하고 달콤한 한국 전통 과자",
+        "en": "Crispy and sweet Korean traditional confectionery carrying on the tradition of Suwon Hwaseong"
+      },
+      "origin": {
+        "ko": "정조대왕 시대 화성 건설 당시 궁중에서 만들던 유과 제조법이 수원 지역에 전해지면서 시작되었습니다. 왕실의 격조 높은 과자 문화가 민간에 정착한 대표적인 사례입니다.",
+        "en": "It began when the yugwa manufacturing method made in the royal court during the construction of Hwaseong in King Jeongjo's era was passed down to the Suwon region. It is a representative example of the royal family's sophisticated confectionery culture settling among civilians."
+      },
+      "history": {
+        "ko": "조선후기부터 수원 지역 양반가에서 제조되기 시작했고, 일제강점기에도 그 기술이 유지되었습니다. 1970년대부터 수원의 특산품으로 상품화되어 현재는 화성 관광의 대표 기념품이 되었습니다.",
+        "en": "It began to be manufactured in aristocratic families in the Suwon region from the late Joseon period, and the technique was maintained even during the Japanese colonial period. It was commercialized as Suwon's specialty from the 1970s and has now become a representative souvenir of Hwaseong tourism."
+      },
+      "geography": {
+        "ko": "수원 지역의 깨끗한 지하수와 경기도 평야에서 생산되는 우수한 찹쌀이 유과의 바삭한 식감을 만들어냅니다. 수원의 온화하고 건조한 기후는 유과 제조와 보관에 최적의 조건을 제공합니다.",
+        "en": "Clean groundwater from the Suwon region and excellent glutinous rice produced in Gyeonggi Plain create the crispy texture of yugwa. Suwon's mild and dry climate provides optimal conditions for yugwa production and storage."
+      }
+    },
+    {
+      "id": "suwon-sundae",
+      "name": {
+        "ko": "수원순대",
+        "en": "Suwon Sundae"
+      },
+      "description": {
+        "ko": "수원 지역 특유의 양념과 제조법으로 만든 담백하고 쫄깃한 순대",
+        "en": "Light and chewy sundae made with Suwon region's unique seasoning and manufacturing method"
+      },
+      "origin": {
+        "ko": "조선시대 수원 장날에 농민들이 즐겨 먹던 서민 음식에서 유래되었습니다. 경기도 지역의 풍부한 농산물과 수원 지역만의 독특한 양념법이 결합되어 발달했습니다.",
+        "en": "It originated from common people's food that farmers enjoyed eating on Suwon market days during the Joseon Dynasty. It developed by combining abundant agricultural products from Gyeonggi Province with unique seasoning methods specific to the Suwon region."
+      },
+      "history": {
+        "ko": "일제강점기와 한국전쟁을 거치며 서민들의 중요한 단백질 공급원 역할을 했습니다. 1960년대부터 수원 팔달시장을 중심으로 순대골목이 형성되어 현재까지 수원의 대표적인 서민 음식으로 사랑받고 있습니다.",
+        "en": "Through the Japanese colonial period and Korean War, it served as an important protein source for common people. From the 1960s, sundae alley was formed around Suwon Paldal Market and has been loved as Suwon's representative common people's food to this day."
+      },
+      "geography": {
+        "ko": "수원 주변의 비옥한 농토에서 생산되는 쌀과 채소, 그리고 깨끗한 지하수가 순대의 담백한 맛을 만들어냅니다. 경기도 내륙 지역의 특성상 저장 음식 문화가 발달하여 순대 제조 기술이 정착했습니다.",
+        "en": "Rice and vegetables produced in fertile farmland around Suwon, and clean groundwater create the light taste of sundae. Due to the inland characteristics of Gyeonggi Province, preserved food culture developed and sundae manufacturing techniques were established."
+      }
+    }
+  ]
+}
