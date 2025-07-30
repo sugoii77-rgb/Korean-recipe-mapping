@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "광주",
+    "en": "Gwangju"
+  },
+  "foods": [
+    {
+      "id": "gwangju-songjeong-tteokgalbi",
+      "name": {
+        "ko": "광주송정떡갈비",
+        "en": "Gwangju Songjeong Tteokgalbi"
+      },
+      "description": {
+        "ko": "갈비살을 다져서 양념한 후 떡 모양으로 빚어 구운 광주의 대표 음식",
+        "en": "Gwangju's representative dish made by mincing galbi meat, seasoning it, and grilling it in rice cake shape"
+      },
+      "origin": {
+        "ko": "1950년대 광주 송정리 일대에서 시작된 음식으로, 갈비뼈에 붙은 자투리 고기를 버리지 않고 활용하기 위해 개발된 서민적인 요리법에서 유래되었습니다.",
+        "en": "A food that started in the Songjeong-ri area of Gwangju in the 1950s, it originated from a common people's cooking method developed to utilize leftover meat attached to rib bones without waste."
+      },
+      "history": {
+        "ko": "1960년대부터 광주 송정시장을 중심으로 유명해지기 시작했고, 1980년대 들어 전국적으로 알려지면서 광주를 대표하는 향토음식으로 자리잡았습니다. 현재는 전국 어디서나 맛볼 수 있는 인기 메뉴가 되었습니다.",
+        "en": "It began to become famous around Gwangju Songjeong Market from the 1960s, and as it became known nationwide in the 1980s, it established itself as Gwangju's representative local food. It has now become a popular menu that can be tasted anywhere in the country."
+      },
+      "geography": {
+        "ko": "전라남도의 비옥한 평야에서 생산되는 우수한 한우와 광주 지역의 깨끗한 물이 떡갈비의 부드러운 식감을 만들어냅니다. 광주의 온화한 기후는 고기의 숙성과 양념의 침투에 적합한 조건을 제공했습니다.",
+        "en": "Excellent Korean beef produced in the fertile plains of South Jeolla Province and clean water from the Gwangju region create the soft texture of tteokgalbi. Gwangju's mild climate provided suitable conditions for meat aging and seasoning penetration."
+      }
+    },
+    {
+      "id": "mudeungsan-jeongol",
+      "name": {
+        "ko": "무등산정골",
+        "en": "Mudeungsan Jeongol"
+      },
+      "description": {
+        "ko": "무등산에서 나는 산나물과 버섯을 넣고 끓인 광주의 전통 전골",
+        "en": "Traditional hot pot from Gwangju cooked with wild vegetables and mushrooms from Mudeungsan"
+      },
+      "origin": {
+        "ko": "무등산의 풍부한 산나물과 버섯을 이용해 만든 광주 지역의 전통 음식으로, 조선시대부터 광주 지역 양반가에서 건강식으로 즐겨 먹던 요리에서 유래되었습니다.",
+        "en": "A traditional food from the Gwangju region made with abundant wild vegetables and mushrooms from Mudeungsan, it originated from dishes enjoyed as health food by aristocratic families in Gwangju since the Joseon Dynasty."
+      },
+      "history": {
+        "ko": "일제강점기에도 그 전통이 유지되었고, 1970년대부터 광주의 대표적인 향토음식으로 알려지기 시작했습니다. 현재는 무등산 관광과 연계된 광주의 특색 있는 음식으로 발전했습니다.",
+        "en": "The tradition was maintained even during the Japanese colonial period, and from the 1970s, it began to be known as Gwangju's representative local food. It has now developed into Gwangju's distinctive food linked with Mudeungsan tourism."
+      },
+      "geography": {
+        "ko": "무등산의 깨끗한 자연환경에서 자라는 다양한 산나물과 버섯이 정골의 핵심 재료입니다. 광주의 온화한 기후와 충분한 강수량은 산나물의 성장에 최적의 조건을 제공합니다.",
+        "en": "Various wild vegetables and mushrooms growing in the clean natural environment of Mudeungsan are the key ingredients of jeongol. Gwangju's mild climate and sufficient rainfall provide optimal conditions for wild vegetable growth."
+      }
+    },
+    {
+      "id": "gwangju-kimchi",
+      "name": {
+        "ko": "광주김치",
+        "en": "Gwangju Kimchi"
+      },
+      "description": {
+        "ko": "전라도 특유의 깊고 진한 맛을 자랑하는 광주 지역의 전통 김치",
+        "en": "Traditional kimchi from Gwangju region boasting Jeolla Province's characteristic deep and rich flavor"
+      },
+      "origin": {
+        "ko": "전라도 지역의 풍부한 농산물과 광주 지역만의 독특한 양념법이 결합되어 만들어진 김치로, 조선시대부터 광주 지역 가정마다 전수되어 온 전통 제조법을 바탕으로 합니다.",
+        "en": "Kimchi created by combining abundant agricultural products from Jeolla Province with unique seasoning methods specific to the Gwangju region, based on traditional manufacturing methods passed down from household to household in Gwangju since the Joseon Dynasty."
+      },
+      "history": {
+        "ko": "전라도 김치의 대표격으로 여겨지는 광주김치는 일제강점기에도 그 전통이 이어졌고, 1980년대부터 전국적으로 그 맛을 인정받기 시작했습니다. 현재는 광주를 대표하는 발효식품으로 자리잡았습니다.",
+        "en": "Gwangju kimchi, considered representative of Jeolla Province kimchi, maintained its tradition even during the Japanese colonial period, and began to be recognized nationwide for its taste from the 1980s. It has now established itself as a representative fermented food of Gwangju."
+      },
+      "geography": {
+        "ko": "영산강 유역의 비옥한 토양에서 생산되는 우수한 배추와 무, 그리고 서해안의 질 좋은 젓갈이 광주김치의 깊은 맛을 만들어냅니다. 광주의 온화한 기후는 김치 발효에 최적의 조건을 제공합니다.",
+        "en": "Excellent cabbage and radish produced in the fertile soil of the Yeongsan River basin, and high-quality salted seafood from the west coast create the deep flavor of Gwangju kimchi. Gwangju's mild climate provides optimal conditions for kimchi fermentation."
+      }
+    }
+  ]
+}
