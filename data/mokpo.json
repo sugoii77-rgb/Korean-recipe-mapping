@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "목포",
+    "en": "Mokpo"
+  },
+  "foods": [
+    {
+      "id": "hongeo-samhap",
+      "name": {
+        "ko": "홍어삼합",
+        "en": "Hongeo Samhap"
+      },
+      "description": {
+        "ko": "홍어회와 수육, 묵은지를 함께 먹는 목포의 대표 음식",
+        "en": "Mokpo's representative dish eaten with skate sashimi, boiled pork, and aged kimchi together"
+      },
+      "origin": {
+        "ko": "조선시대부터 목포 앞바다에서 잡히는 홍어를 이용해 만든 전통 음식입니다. 홍어의 독특한 발효 과정과 전라도 지역의 풍부한 농산물이 결합되어 탄생한 독창적인 요리입니다.",
+        "en": "Traditional food made with skate caught in the sea off Mokpo since the Joseon Dynasty. An original dish born from combining skate's unique fermentation process with abundant agricultural products from Jeolla Province."
+      },
+      "history": {
+        "ko": "일제강점기에도 그 전통이 이어졌고, 1960년대부터 목포의 대표적인 향토음식으로 알려지기 시작했습니다. 현재는 전라남도를 대표하는 특색 있는 음식으로 전국적인 인지도를 얻고 있습니다.",
+        "en": "The tradition continued even during the Japanese colonial period, and from the 1960s, it began to be known as Mokpo's representative local food. It is now gaining nationwide recognition as a distinctive food representing South Jeolla Province."
+      },
+      "geography": {
+        "ko": "서해와 남해가 만나는 목포 앞바다의 특별한 해류가 홍어의 독특한 맛을 만들어냅니다. 전라남도의 비옥한 평야에서 생산되는 우수한 배추와 돼지고기가 삼합의 조화를 완성시킵니다.",
+        "en": "Special ocean currents where the West Sea and South Sea meet off Mokpo create skate's unique taste. Excellent cabbage and pork produced in the fertile plains of South Jeolla Province complete the harmony of samhap."
+      }
+    },
+    {
+      "id": "mokpo-jjampong",
+      "name": {
+        "ko": "목포짬뽕",
+        "en": "Mokpo Jjamppong"
+      },
+      "description": {
+        "ko": "목포 앞바다의 신선한 해산물로 만든 얼큰하고 시원한 짬뽕",
+        "en": "Spicy and refreshing jjamppong made with fresh seafood from the sea off Mokpo"
+      },
+      "origin": {
+        "ko": "1960년대 목포항 일대의 중국집에서 시작된 음식으로, 목포 앞바다의 풍부한 해산물을 활용해 기존 짬뽕을 더욱 시원하고 깊은 맛으로 개량한 것에서 유래되었습니다.",
+        "en": "A food that started in Chinese restaurants around Mokpo Port in the 1960s, it originated from improving existing jjamppong to a more refreshing and deep taste by utilizing abundant seafood from the sea off Mokpo."
+      },
+      "history": {
+        "ko": "1970년대부터 목포의 대표적인 면요리로 자리잡기 시작했고, 1980년대 들어 전국적으로 알려지면서 해산물 짬뽕의 대명사가 되었습니다. 현재는 목포 관광의 필수 메뉴로 사랑받고 있습니다.",
+        "en": "From the 1970s, it began to establish itself as Mokpo's representative noodle dish, and as it became known nationwide in the 1980s, it became synonymous with seafood jjamppong. It is now loved as an essential menu of Mokpo tourism."
+      },
+      "geography": {
+        "ko": "서해와 남해가 만나는 목포 앞바다의 청정 해역에서 나는 다양한 해산물이 짬뽕의 깊고 시원한 맛을 만들어냅니다. 목포의 갯벌에서 나는 조개류는 특히 국물의 감칠맛을 더해줍니다.",
+        "en": "Various seafood from clean waters where the West Sea and South Sea meet off Mokpo create jjamppong's deep and refreshing taste. Shellfish from Mokpo's tidal flats especially add umami to the broth."
+      }
+    },
+    {
+      "id": "gatbae-baeksuk",
+      "name": {
+        "ko": "갓배백숙",
+        "en": "Gatbae Baeksuk"
+      },
+      "description": {
+        "ko": "목포 특산 갓김치와 배추를 넣고 끓인 닭백숙",
+        "en": "Chicken baeksuk cooked with Mokpo specialty mustard leaf kimchi and cabbage"
+      },
+      "origin": {
+        "ko": "목포 지역에서 겨울철에 많이 재배되는 갓을 이용해 만든 향토음식입니다. 갓의 톡 쓴 맛과 닭고기의 담백함이 어우러져 독특한 맛을 만들어내는 목포만의 특별한 요리입니다.",
+        "en": "A local food made with mustard leaves grown extensively in the Mokpo region during winter. A special dish unique to Mokpo where the sharp bitter taste of mustard leaves harmonizes with the light taste of chicken to create a unique flavor."
+      },
+      "history": {
+        "ko": "조선시대부터 목포 지역 가정에서 겨울철 보양식으로 즐겨 먹던 음식이었으나, 1980년대부터 상품화되어 목포의 대표적인 향토음식으로 자리잡았습니다.",
+        "en": "It was a food enjoyed as winter health food in Mokpo households since the Joseon Dynasty, but was commercialized from the 1980s and established itself as Mokpo's representative local food."
+      },
+      "geography": {
+        "ko": "목포 지역의 해양성 기후와 비옥한 갯벌 토양이 갓 재배에 최적의 조건을 제공합니다. 바닷바람을 맞고 자란 갓은 특유의 아삭한 식감과 톡 쏘는 맛을 가지게 됩니다.",
+        "en": "Mokpo's maritime climate and fertile tidal flat soil provide optimal conditions for mustard leaf cultivation. Mustard leaves grown facing sea breeze develop their characteristic crispy texture and sharp taste."
+      }
+    }
+  ]
+}
