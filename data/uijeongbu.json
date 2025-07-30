@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "의정부",
+    "en": "Uijeongbu"
+  },
+  "foods": [
+    {
+      "id": "uijeongbu-budaejjigae",
+      "name": {
+        "ko": "의정부부대찌개",
+        "en": "Uijeongbu Budaejjigae"
+      },
+      "description": {
+        "ko": "의정부에서 시작된 부대찌개의 원조, 한국 전쟁 이후 탄생한 대표적인 퓨전 음식",
+        "en": "Original budaejjigae that started in Uijeongbu, representative fusion food born after the Korean War"
+      },
+      "origin": {
+        "ko": "한국전쟁 이후 1950년대 의정부 미군부대 근처에서 시작된 음식입니다. 당시 물자가 부족했던 상황에서 미군부대에서 나오는 햄, 소시지 등의 통조림 식품과 한국 전통 김치, 라면 등을 함께 끓여 만든 생존 음식에서 유래되었습니다.",
+        "en": "A food that started near the US military base in Uijeongbu in the 1950s after the Korean War. It originated from survival food made by cooking together canned foods like ham and sausages from the US military base with traditional Korean kimchi and ramen during a time when supplies were scarce."
+      },
+      "history": {
+        "ko": "1960년대부터 의정부 시내 식당들에서 본격적으로 메뉴화되기 시작했고, 1970년대 들어 전국적으로 확산되었습니다. 1980년대 이후 한국을 대표하는 국민 음식 중 하나가 되었으며, 현재는 K-푸드의 대표 메뉴로 해외에도 널리 알려져 있습니다.",
+        "en": "It began to be put on menus in earnest at restaurants in Uijeongbu from the 1960s and spread nationwide in the 1970s. Since the 1980s, it has become one of Korea's representative national foods, and is now widely known overseas as a representative K-food menu."
+      },
+      "geography": {
+        "ko": "서울 북부 접경지역인 의정부의 지리적 위치와 주한미군 기지의 존재가 부대찌개 탄생의 배경이 되었습니다. 경기북부 지역의 농산물과 미군부대의 서구 식재료가 만나는 지점에서 독특한 융합 음식 문화가 꽃피웠습니다.",
+        "en": "Uijeongbu's geographical location as a border area north of Seoul and the presence of US military bases became the background for budaejjigae's birth. A unique fusion food culture flourished at the point where agricultural products from northern Gyeonggi Province met Western ingredients from US military bases."
+      }
+    },
+    {
+      "id": "uijeongbu-galbitang",
+      "name": {
+        "ko": "의정부갈비탕",
+        "en": "Uijeongbu Galbitang"
+      },
+      "description": {
+        "ko": "의정부 지역 특유의 깔끔하고 진한 국물의 갈비탕",
+        "en": "Galbitang with clean and rich broth characteristic of Uijeongbu region"
+      },
+      "origin": {
+        "ko": "의정부 지역의 전통 음식으로, 경기북부 지역에서 생산되는 우수한 한우를 이용해 만든 향토음식입니다. 조선시대부터 이 지역 양반가에서 즐겨 먹던 보양식에서 발전한 음식으로 추정됩니다.",
+        "en": "A traditional food of the Uijeongbu region, it is a local food made with excellent Korean beef produced in northern Gyeonggi Province. It is presumed to have developed from health food enjoyed by aristocratic families in this region since the Joseon Dynasty."
+      },
+      "history": {
+        "ko": "일제강점기와 한국전쟁을 거치며 서민화되었고, 1960년대부터 의정부의 대표적인 향토음식으로 자리잡기 시작했습니다. 현재는 부대찌개와 함께 의정부를 대표하는 두 가지 주요 음식 중 하나가 되었습니다.",
+        "en": "It became popularized among common people through the Japanese colonial period and Korean War, and began to establish itself as Uijeongbu's representative local food from the 1960s. It has now become one of the two main foods representing Uijeongbu along with budaejjigae."
+      },
+      "geography": {
+        "ko": "의정부 주변의 청정한 자연환경과 경기북부 지역의 우수한 축산업 기반이 갈비탕의 품질을 좌우합니다. 북한강 상류의 맑은 물과 온화한 기후가 소 사육에 적합한 환경을 제공하여 양질의 갈비탕 재료를 공급합니다.",
+        "en": "The clean natural environment around Uijeongbu and the excellent livestock industry foundation of northern Gyeonggi Province determine the quality of galbitang. Clear water from the upper reaches of the Bukhan River and mild climate provide an environment suitable for cattle raising, supplying high-quality galbitang ingredients."
+      }
+    },
+    {
+      "id": "uijeongbu-bibim-naengmyeon",
+      "name": {
+        "ko": "의정부비빔냉면",
+        "en": "Uijeongbu Bibim Naengmyeon"
+      },
+      "description": {
+        "ko": "의정부 지역 특유의 달콤하고 새콤한 양념으로 무친 비빔냉면",
+        "en": "Bibim naengmyeon mixed with sweet and sour seasoning characteristic of Uijeongbu region"
+      },
+      "origin": {
+        "ko": "1960년대 의정부 중앙시장 일대에서 시작된 음식으로, 더운 여름철 부대찌개 대신 시원한 면요리에 대한 수요가 증가하면서 발달했습니다. 의정부만의 독특한 양념법이 개발되어 다른 지역 비빔냉면과 차별화되었습니다.",
+        "en": "A food that started around Uijeongbu Central Market in the 1960s, it developed as demand for cool noodle dishes increased instead of budaejjigae during hot summers. Uijeongbu's unique seasoning method was developed, differentiating it from bibim naengmyeon from other regions."
+      },
+      "history": {
+        "ko": "1970년대부터 의정부의 여름 대표 메뉴로 자리잡기 시작했고, 1980년대 들어 경기북부 지역의 특색 있는 냉면으로 알려지게 되었습니다. 현재는 의정부 3대 대표 음식 중 하나로 인정받고 있습니다.",
+        "en": "From the 1970s, it began to establish itself as Uijeongbu's representative summer menu, and in the 1980s, it became known as a distinctive naengmyeon of northern Gyeonggi Province. It is now recognized as one of Uijeongbu's three representative foods."
+      },
+      "geography": {
+        "ko": "의정부 지역의 온화한 기후와 경기북부 산간지역에서 생산되는 메밀이 냉면의 쫄깃한 면발을 만들어냅니다. 북한강 수계의 깨끗한 물은 면 제조에 필수적인 요소이며, 주변 농업지역의 신선한 채소가 비빔냉면의 아삭한 식감을 더해줍니다.",
+        "en": "Uijeongbu's mild climate and buckwheat produced in the mountainous areas of northern Gyeonggi Province create naengmyeon's chewy noodles. Clean water from the Bukhan River system is an essential element in noodle production, and fresh vegetables from surrounding agricultural areas add crispy texture to bibim naengmyeon."
+      }
+    }
+  ]
+}
