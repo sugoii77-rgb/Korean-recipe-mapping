@@ -1,0 +1,77 @@
+{
+  "city": {
+    "ko": "인천",
+    "en": "Incheon"
+  },
+  "foods": [
+    {
+      "id": "incheon-jajangmyeon",
+      "name": {
+        "ko": "인천짜장면",
+        "en": "Incheon Jajangmyeon"
+      },
+      "description": {
+        "ko": "한국 짜장면의 발상지 인천에서 시작된 원조 짜장면",
+        "en": "Original jajangmyeon that started in Incheon, the birthplace of Korean jajangmyeon"
+      },
+      "origin": {
+        "ko": "1883년 인천항 개항과 함께 들어온 중국인들이 인천 차이나타운에서 처음 만들기 시작한 음식입니다. 중국의 자장면을 한국인의 입맛에 맞게 개량하여 현재의 한국식 짜장면이 탄생했습니다.",
+        "en": "A dish that Chinese people who came with the opening of Incheon Port in 1883 first began making in Incheon Chinatown. Korean-style jajangmyeon was born by adapting Chinese zhajiangmian to Korean tastes."
+      },
+      "history": {
+        "ko": "1905년 공화춘에서 처음 팔리기 시작한 이후 전국으로 확산되었습니다. 일제강점기와 한국전쟁을 거치며 서민들의 대표 음식이 되었고, 현재는 한국을 대표하는 국민 음식 중 하나가 되었습니다.",
+        "en": "After first being sold at Gonghwachun in 1905, it spread nationwide. Through the Japanese colonial period and Korean War, it became a representative food of common people, and has now become one of Korea's representative national foods."
+      },
+      "geography": {
+        "ko": "인천항의 국제무역항 특성상 중국에서 춘장과 양파 등 재료 수입이 용이했던 점이 짜장면 발전에 기여했습니다. 인천의 해양성 기후는 면 제조와 보관에 적합한 환경을 제공했습니다.",
+        "en": "The international trading port characteristics of Incheon Port made it easy to import ingredients like chunjang and onions from China, contributing to jajangmyeon's development. Incheon's maritime climate provided an environment suitable for noodle production and storage."
+      }
+    },
+    {
+      "id": "sorae-jeotgal",
+      "name": {
+        "ko": "소래젓갈",
+        "en": "Sorae Jeotgal"
+      },
+      "description": {
+        "ko": "인천 소래포구에서 만드는 서해안 특산 젓갈류",
+        "en": "West coast specialty salted seafood made at Incheon Sorae Port"
+      },
+      "origin": {
+        "ko": "조선시대부터 소래포구 일대에서 잡히는 신선한 새우와 조개류를 이용해 만들어진 전통 발효식품입니다. 서해안의 풍부한 해산물과 인천 지역의 전통 염장 기술이 결합되어 발달했습니다.",
+        "en": "Traditional fermented food made with fresh shrimp and shellfish caught around Sorae Port since the Joseon Dynasty. It developed by combining abundant seafood from the west coast with traditional salting techniques from the Incheon region."
+      },
+      "history": {
+        "ko": "일제강점기에도 그 전통이 이어졌고, 1960년대부터 소래포구 젓갈시장이 형성되어 전국 젓갈의 집산지가 되었습니다. 현재는 인천을 대표하는 특산품으로 전국에 유통되고 있습니다.",
+        "en": "The tradition continued even during the Japanese colonial period, and from the 1960s, Sorae Port jeotgal market was formed, becoming a distribution center for jeotgal nationwide. It is now distributed nationwide as Incheon's representative specialty."
+      },
+      "geography": {
+        "ko": "서해안의 갯벌과 조수간만의 차이가 큰 환경이 새우와 조개류의 서식에 최적의 조건을 제공합니다. 인천의 해양성 기후는 젓갈의 자연 발효에 적합한 온도와 습도를 유지시켜 줍니다.",
+        "en": "The tidal flats of the west coast and environment with large tidal differences provide optimal conditions for shrimp and shellfish habitats. Incheon's maritime climate maintains temperature and humidity suitable for natural fermentation of jeotgal."
+      }
+    },
+    {
+      "id": "incheon-bulgogi",
+      "name": {
+        "ko": "인천불고기",
+        "en": "Incheon Bulgogi"
+      },
+      "description": {
+        "ko": "인천 지역만의 특별한 양념으로 만든 달콤하고 부드러운 불고기",
+        "en": "Sweet and tender bulgogi made with special seasoning unique to the Incheon region"
+      },
+      "origin": {
+        "ko": "인천항 개항 이후 들어온 외국인들의 입맛에 맞추기 위해 기존 불고기를 더 달콤하게 개량한 것에서 시작되었습니다. 인천의 국제적 특성이 반영된 독특한 음식 문화의 산물입니다.",
+        "en": "It started from making existing bulgogi sweeter to suit the tastes of foreigners who came after the opening of Incheon Port. It is a product of unique food culture reflecting Incheon's international characteristics."
+      },
+      "history": {
+        "ko": "1960년대부터 인천 신포동 일대에서 유명해지기 시작했고, 1980년대 들어 인천을 대표하는 향토음식으로 자리잡았습니다. 현재는 인천 관광의 필수 메뉴 중 하나가 되었습니다.",
+        "en": "It began to become famous in the Sinpo-dong area of Incheon from the 1960s, and established itself as Incheon's representative local food in the 1980s. It has now become one of the essential menus of Incheon tourism."
+      },
+      "geography": {
+        "ko": "인천 주변의 경기 평야에서 생산되는 우수한 한우와 인천항을 통해 들어오는 다양한 양념 재료가 만나 독특한 맛을 만들어냅니다. 바닷바람의 영향으로 고기가 부드럽게 숙성되는 자연 조건도 도움이 됩니다.",
+        "en": "Excellent Korean beef produced in Gyeonggi Plain around Incheon meets various seasoning ingredients coming through Incheon Port to create unique flavors. Natural conditions where meat ages tenderly due to sea breeze influence also help."
+      }
+    }
+  ]
+}
